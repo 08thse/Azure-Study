@@ -46,4 +46,4 @@ Azure初学者がとっつきやすい＆覚えておきたい情報源などを
 [Draw.io](https://app.diagrams.net/)  
 [ClowdSkew](https://www.cloudskew.com/)
 
------
+Azureのアイコンなども簡単に利用できる。ちょっとした設計書を書く時にも便利。
