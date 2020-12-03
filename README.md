@@ -20,7 +20,7 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 
 # 書いている人
 
-## sou (08thse)
+## [sou (08thse)](https://twitter.com/08thse)
 
 * SIer勤務。得意なのはMS系だが、Linuxなど他の分野も好き。
 * 基本的にはインフラ屋。なのでインフラ屋がクラウド(Azure)を勉強する視点の方が強めです。
