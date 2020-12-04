@@ -6,6 +6,8 @@ Azure周辺の勉強として良かったオンデマンドセミナなどを残
 コンテナや CI/CD なども含まれているので、そのあたりを一通り触るのに便利。ただし Azure DevOps は尻切れ感
 * [Node.js アプリケーションをクラウド運用してみよう](https://info.microsoft.com/JA-AzureApp-WBNR-FY20-05May-21-AzureAppInnovationMeetAzureforDevelopers-SRDEM21650_LP02OnDemandRegistration-ForminBody.html)  
 Azure DevOps Starter が強力だということがわかる動画
+* [ASP.NET Core 3.x Web アプリのログを Elastic Cloud で収集・分析してみよう！](https://info.microsoft.com/JA-AzureApp-WBNR-FY21-10Oct-19-AzureAppInnovation-SRDEM47219_LP02OnDemandRegistration-ForminBody.html)  
+Serilog を利用。内容が濃くペースが早め。開発者向け
 
 ## Cosmos DB
 

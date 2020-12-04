@@ -22,9 +22,9 @@ Azure周辺の勉強として良かったオンデマンドセミナなどを残
 
 手を動かす際に参考になるハンズオンセミナ／技術情報などを残していっています。
 
-## 30_QuickStart_Template_読み解き
+## [30_QuickStart_Template_読み解き](30_QuickStart_Templates_Reading/README.md)
 
-Azure QuickStart Template の中から面白そうなものを選んで読み解いたもの (を公開する予定) です。
+Azure QuickStart Template の中から面白そうなものを選んで読み解いたものです。
 
 ## [70_雑記](./70_Others/README.md)
 
