@@ -14,15 +14,15 @@
 
 Azureのスキルアップにあたり、とっつきやすい＆覚えておきたい情報源などを紹介しています。
 
-## [20_良かったセミナ等](20_Seminar/README.md)
+## [20_良かったセミナ等](./20_Seminar/README.md)
 
 Azure周辺の勉強として良かったオンデマンドセミナなどを残していっています。
 
-## 21_ハンズオン系の情報
+## [21_ハンズオン系の情報](./21_Hands-on/README.md)
 
 手を動かす際に参考になるハンズオンセミナ／技術情報などを残していっています。
 
-## [30_QuickStart_Template_読み解き](30_QuickStart_Templates_Reading/README.md)
+## [30_QuickStart_Template_読み解き](./30_QuickStart_Templates_Reading/README.md)
 
 Azure QuickStart Template の中から面白そうなものを選んで読み解いたものです。
 
