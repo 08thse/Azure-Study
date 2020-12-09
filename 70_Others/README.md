@@ -8,6 +8,7 @@
 # Azure Kubernetes Service (AKS)
 
 * [AKS の情報採取ツール (AKS Periscope) を試してみた | Zenn](https://zenn.dev/articles/fda5527c506dfee706d6)
+* [[Azure] AKS の定時起動・停止を Azure Automation で行う](https://zenn.dev/08thse/articles/04-auto-start-aks-by-azure-runbook)
 
 # Azure Infrastructure
 
