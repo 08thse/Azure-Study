@@ -2,3 +2,5 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 
 * [Create an Azure Cosmos DB account and Web App and deploy web app from GitHub](https://github.com/Azure/azure-quickstart-templates/tree/master/101-cosmosdb-webapp)  
 ⇒[[Azure] 101-cosmosdb-webapp テンプレート読み解き](https://zenn.dev/08thse/articles/03-qt-read-101-cosmosdb-webapp)
+* [Create a VM with multiple IPs](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-multiple-ipconfig)  
+⇒[[Azure] 101-vm-multiple-ipconfig テンプレート読み解き](https://zenn.dev/08thse/articles/05-qt-read-101-vm-multiple-ipconfig)
