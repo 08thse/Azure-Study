@@ -9,3 +9,8 @@ Web Apps および Azure SQL Database で構成される Web アプリケーシ�
 
 * [Azure Storage へのアプリの接続](https://docs.microsoft.com/ja-jp/learn/modules/connect-an-app-to-azure-storage/)  
 Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
+
+## AKS
+
+* [コンテナー化されたアプリケーションを Azure Kubernetes Service にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/aks-deploy-container-app/)  
+AKS に簡単なアプリをデプロイしてネットワーク接続を構成する
