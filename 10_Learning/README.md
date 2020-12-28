@@ -29,16 +29,24 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 最新情報はここでキャッチ。イベント後は100件を超えるアップデートが流れるので追いつくのが大変！
 
-# Azure Well-Architected Framework
-
-[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)
-[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
-
 # Azure アーキテクチャ センター
 
 とにかく様々な領域のアーキテクチャに関するドキュメントがもりだくさん。全部読むのは辛いかもしれないが、興味のあるページから読み進めると良さそう。
 
 [Azure アーキテクチャ センター - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/)
+
+## Azure アプリケーション アーキテクチャ ガイド
+
+アーキテクチャ設計を俯瞰して捉えるのに良い。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良さそう。
+
+[Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
+
+## Azure Well-Architected Framework
+
+[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)
+[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
+
+
 
 # Channel 9
 
