@@ -23,6 +23,12 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 公式マニュアル。意外とチュートリアルやベストプラクティスが充実しているので、設計前には熟読しておきましょう。
 
+## Azure Advisor
+
+[Azure Advisor のドキュメント - Azure Advisor | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/advisor/)
+
+「操作方法ガイド」配下のページはベストプラクティスとして確認しておくと良いと思います。
+
 # Azure Update (RSS)
 
 [Azure の更新情報](https://azure.microsoft.com/ja-jp/updates/)
@@ -31,13 +37,13 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 # Azure アーキテクチャ センター
 
-とにかく様々な領域のアーキテクチャに関するドキュメントがもりだくさん。全部読むのは辛いかもしれないが、興味のあるページから読み進めると良さそう。
+とにかく様々な領域のアーキテクチャに関するドキュメントがもりだくさん。全部読むのは辛いかもしれないが、興味のあるページから読み進めると良い。
 
 [Azure アーキテクチャ センター - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/)
 
 ## Azure アプリケーション アーキテクチャ ガイド
 
-アーキテクチャ設計を俯瞰して捉えるのに良い。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良さそう。
+アーキテクチャ設計を俯瞰して捉えるのに良い。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良い。
 
 [Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
 
