@@ -8,3 +8,5 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 ⇒[[Azure] 101-front-door-create-basic テンプレート読み解き](https://zenn.dev/08thse/articles/06-qt-read-101-front-door-create-basic)
 * [Deploy a Virtual Machine with SSH Keys](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-sshkey)  
 ⇒[[Azure] 101-vm-sshkey ARM テンプレート読み解き](https://zenn.dev/08thse/articles/07-qt-read-101-vm-sshkey)
+* [ARM Template for Deploying Jenkins Master/Slave Cluster](https://github.com/Azure/azure-quickstart-templates/tree/master/101-jenkins-cluster-2-linux-1-win)  
+⇒[[Azure] ARM テンプレート読み解き (デプロイ後スクリプトの自動実行)](https://zenn.dev/08thse/articles/08-qt-read-101-jenkins-cluster-2-linux-1-win)
