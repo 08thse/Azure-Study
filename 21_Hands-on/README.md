@@ -11,4 +11,6 @@ AKS に簡単なアプリをデプロイしてネットワーク接続を構成�
   * `AKS`
 * [Azure Database for MySQL - フレキシブル サーバーを使用して WordPress アプリを AKS にデプロイする](https://docs.microsoft.com/ja-jp/azure/mysql/flexible-server/tutorial-deploy-wordpress-on-aks)  
   * `AKS`, `Azure Database`
-
+* [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
+Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
+  * `Cognitive Service`
