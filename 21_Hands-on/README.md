@@ -14,3 +14,6 @@ AKS に簡単なアプリをデプロイしてネットワーク接続を構成�
 * [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`
+* [スケーラブルな Web アプリケーション](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app)  
+WebApp, Functions, Redis for Cache などなど、まとめて実装
+  * `Web Apps`, `Azure SQL Database`, `Front Door`, `Functions`,`Cosmos DB`
