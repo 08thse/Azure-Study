@@ -4,6 +4,7 @@
 
 * [[Azure Functions] 一定確率で少し待ってから応答を返す関数 (C#) - Qiita](https://qiita.com/08thse/items/766366e7e1f8892fe982)
 * [[Azure Functions] 長めの処理時間をかける関数 (C#) - Qiita](https://qiita.com/08thse/items/13852ffd5c943e604274)
+* [[Azure Functions] GREAT RACE の放送があるかどうか Slack で知らせる - Qiita](https://qiita.com/08thse/items/4fd6752211f91ae7c89b)
 
 # Azure Kubernetes Service (AKS)
 
