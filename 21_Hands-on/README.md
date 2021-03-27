@@ -17,3 +17,5 @@ Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシー�
 * [スケーラブルな Web アプリケーション](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app)  
 WebApp, Functions, Redis for Cache などなど、まとめて実装
   * `Web Apps`, `Azure SQL Database`, `Front Door`, `Functions`,`Cosmos DB`
+* [対話型音声応答ボット](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/interactive-voice-response-bot)  
+  * `Web App`, `LUIS`, `Azure Search`, `Cosmos DB`
