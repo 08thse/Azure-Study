@@ -41,6 +41,12 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 [Azure アーキテクチャ センター - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/)
 
+## 更新情報
+
+[What's new in Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/changelog)
+
+更新情報を RSS で受け取ることもできる。英語版だが、数日後には日本語の翻訳コンテンツが公開されることが多い印象。日本語版の更新情報は[こちら](https://docs.microsoft.com/ja-jp/azure/architecture/changelog)。
+
 ## Azure アプリケーション アーキテクチャ ガイド
 
 アーキテクチャ設計を俯瞰して捉えるのに良い。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良い。
