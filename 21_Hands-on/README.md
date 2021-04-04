@@ -19,3 +19,11 @@ WebApp, Functions, Redis for Cache などなど、まとめて実装
   * `Web Apps`, `Azure SQL Database`, `Front Door`, `Functions`,`Cosmos DB`
 * [対話型音声応答ボット](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/interactive-voice-response-bot)  
   * `Web App`, `LUIS`, `Azure Search`, `Cosmos DB`
+
+## 検証に使えるサンプルアプリケーション等
+
+Azure 学習目的のハンズオンではないものの、手を動かす際に活用できそうなサンプル等を残していっています。
+
+* [TERASOLUNA Sample (Tour Reservation Sample Application)](https://github.com/terasolunaorg/terasoluna-tourreservation)  
+Java および Spring ベースのフレームワークでつくられたサンプル。画面はちょっと微妙。
+  * `Java`, `PostgreSQL`, `Spring`
