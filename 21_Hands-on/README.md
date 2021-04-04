@@ -25,5 +25,5 @@ WebApp, Functions, Redis for Cache などなど、まとめて実装
 Azure 学習目的のハンズオンではないものの、手を動かす際に活用できそうなサンプル等を残していっています。
 
 * [TERASOLUNA Sample (Tour Reservation Sample Application)](https://github.com/terasolunaorg/terasoluna-tourreservation)  
-Java および Spring ベースのフレームワークでつくられたサンプル。画面はちょっと微妙。
+Java および Spring ベースのフレームワークでつくられたサンプル。UI はちょっと微妙。
   * `Java`, `PostgreSQL`, `Spring`
