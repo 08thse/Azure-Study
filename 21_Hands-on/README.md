@@ -19,6 +19,10 @@ WebApp, Functions, Redis for Cache などなど、まとめて実装
   * `Web Apps`, `Azure SQL Database`, `Front Door`, `Functions`,`Cosmos DB`
 * [対話型音声応答ボット](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/interactive-voice-response-bot)  
   * `Web App`, `LUIS`, `Azure Search`, `Cosmos DB`
+* [Azure DevOps Starter](https://docs.microsoft.com/ja-jp/azure/devops-project/)
+Azure DevOps を利用した CI/CD 環境を簡単に作ることができる。あとはいじるだけ！
+  * `Web App`, `CI/CD`, `Azure DevOps`, `JavaScript`, etc.
+
 
 ## 検証に使えるサンプルアプリケーション等
 
