@@ -49,9 +49,15 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 ## Azure アプリケーション アーキテクチャ ガイド
 
+[Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
+
 アーキテクチャ設計を俯瞰して捉えるのに良い。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良い。
 
-[Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
+## .NET アプリのアーキテクチャ ガイド
+
+[.NET アプリケーション アーキテクチャのドキュメント](https://docs.microsoft.com/ja-jp/dotnet/architecture/)
+
+「電子書籍」に様々なアーキテクチャガイドがある。
 
 ## Azure Well-Architected Framework
 
