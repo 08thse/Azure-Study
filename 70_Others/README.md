@@ -3,6 +3,7 @@
 # Azure Infrastructure
 
 * [Azure Routing Preference が GA したので価格を見てみた](https://zenn.dev/08thse/articles/18-azure-routing-preference-ga)
+* [[Azure] Firewall で Web Category でのフィルタができるようになった](https://zenn.dev/08thse/articles/14-az-fw-premium-webcategory)
 * [Azure VNET における同一サブネット周りの簡単な動作確認 - Qiita](https://qiita.com/08thse/items/a32b77d054523450510a)
 
 # Azure Functions
