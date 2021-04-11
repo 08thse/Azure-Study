@@ -19,4 +19,5 @@
 
 # その他
 
+* [コスト見積時には Reserved Instance を考慮しよう](https://zenn.dev/08thse/articles/20-cloud-check-ri-price)
 * [Database (PaaS) のサポート期限はチェックしておきましょう](https://zenn.dev/08thse/articles/19-cloud-check-db-eosl)
