@@ -24,7 +24,7 @@ Azure周辺の勉強として良かったオンデマンドセミナなどを残
 
 ## [25_推薦図書](./25_Books/README.md)
 
-Azure周辺の勉強として良かったオンデマンドセミナなどを残していっています。
+Azure周辺の勉強として良かった書籍を残していっています。
 
 ## [30_QuickStart_Template_読み解き](./30_QuickStart_Templates_Reading/README.md)
 
