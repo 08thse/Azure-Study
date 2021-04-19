@@ -9,6 +9,9 @@ Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
 * [コンテナー化されたアプリケーションを Azure Kubernetes Service にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/aks-deploy-container-app/)  
 AKS に簡単なアプリをデプロイしてネットワーク接続を構成する
   * `AKS`
+* [](https://docs.microsoft.com/ja-jp/azure/aks/tutorial-kubernetes-prepare-app)  
+一連のチュートリアルを通して、ACR と連携した簡単なアプリのデプロイから構成変更までを試す
+  * `AKS`, `ACR`, `Python`
 * [Azure Database for MySQL - フレキシブル サーバーを使用して WordPress アプリを AKS にデプロイする](https://docs.microsoft.com/ja-jp/azure/mysql/flexible-server/tutorial-deploy-wordpress-on-aks)  
   * `AKS`, `Azure Database`
 * [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
