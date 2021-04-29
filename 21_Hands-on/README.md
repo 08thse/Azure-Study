@@ -9,6 +9,9 @@ Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
 * [クイックスタート: ASP.NET Web アプリで Azure Cache for Redis を使用する](https://docs.microsoft.com/ja-jp/azure/azure-cache-for-redis/cache-web-app-howto)  
 Cache for Redis のサンプルアプリ。サクッと試すなら Python のほうもオススメ
   * `Cache for Redis`, `ASP.NET`, `Web Apps`
+* [Azure Cache for Redis のサンプル](https://docs.microsoft.com/ja-jp/azure/azure-cache-for-redis/cache-redis-samples)  
+公式のリンク集。外部 GitHub などが多め
+  * `Cache for Redis`
 * [コンテナー化されたアプリケーションを Azure Kubernetes Service にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/aks-deploy-container-app/)  
 AKS に簡単なアプリをデプロイしてネットワーク接続を構成する
   * `AKS`
