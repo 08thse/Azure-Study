@@ -3,6 +3,9 @@
 * [Tutorial: Build an ASP.NET Core and Azure SQL Database app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app)  
 Web Apps および Azure SQL Database で構成される Web アプリケーションをデプロイする
   * `Web Apps`, `Azure SQL Database`, `ASP.NET Core`
+* [Azure Linux 仮想マシン上の MEAN スタックで Web アプリケーションを構築して実行する](https://docs.microsoft.com/ja-jp/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/)  
+MongoDB と JavaScript を使用した Web アプリ。アプリは簡素だがサンプルとしても流用できそう。
+  * `MongoDB`, `JavaScript`, `Express`, `Node.js`
 * [Azure Storage へのアプリの接続](https://docs.microsoft.com/ja-jp/learn/modules/connect-an-app-to-azure-storage/)  
 Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
   * `Azure Storage`, `C#`, `JavaScript`
