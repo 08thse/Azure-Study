@@ -15,6 +15,9 @@ Cache for Redis のサンプルアプリ。サクッと試すなら Python の�
 * [Azure Cache for Redis のサンプル](https://docs.microsoft.com/ja-jp/azure/azure-cache-for-redis/cache-redis-samples)  
 公式のリンク集。外部 GitHub などが多め
   * `Cache for Redis`
+* [Spring マイクロサービスを Azure にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/azure-spring-cloud-workshop/)  
+Azure Spring Cloud と Azure Database を使用して Spring Boot アプリをデプロイする
+  * `Spring Boot`, `Azure Database`, `Java`
 * [コンテナー化されたアプリケーションを Azure Kubernetes Service にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/aks-deploy-container-app/)  
 AKS に簡単なアプリをデプロイしてネットワーク接続を構成する
   * `AKS`
