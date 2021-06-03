@@ -37,6 +37,9 @@ WebApp, Functions, Redis for Cache などなど、まとめて実装
 * [Azure DevOps Starter](https://docs.microsoft.com/ja-jp/azure/devops-project/)
 Azure DevOps を利用した CI/CD 環境を簡単に作ることができる。あとはいじるだけ！
   * `Web Apps`, `CI/CD`, `Azure DevOps`, `JavaScript`, etc.
+* [Azure Stream Analytics によるストリーム処理](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/data/stream-processing-stream-analytics)  
+7GB ほどのサンプルデータ付き
+  * `Cosmos DB`, `Event Hubs`, `Stream Analytics`
 
 
 ## 検証に使えるサンプルアプリケーション等
