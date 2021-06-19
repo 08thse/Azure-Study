@@ -16,6 +16,7 @@
 
 # Azure Kubernetes Service (AKS)
 
+* [Postgres Operator on Azure Kubernetes Service](https://zenn.dev/08thse/articles/28-aks-postgres-operator)
 * [AKS で Node に接続する (kubectl debug / Azure Portal)](https://zenn.dev/08thse/articles/26-aks-connect-node)
 * [AKS Engine のリポジトリを読んでみた](https://zenn.dev/08thse/articles/25-aks-engine-repo)
 * [[AKS] Node の時刻同期が上手くいかなくなる場合がある](https://zenn.dev/08thse/articles/23-aks-node-timesync-error)
