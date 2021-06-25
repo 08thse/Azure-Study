@@ -1,4 +1,6 @@
 #theme: jekyll-theme-cayman
-remote_theme: rundocs/jekyll-rtd-theme
 
-lang: ja
+#remote_theme: rundocs/jekyll-rtd-theme
+#lang: ja
+
+remote_theme: pmarsceill/just-the-docs
