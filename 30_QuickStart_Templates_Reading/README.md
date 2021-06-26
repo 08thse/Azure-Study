@@ -1,3 +1,5 @@
+# QuickStart Template 読み解き
+
 Azure QuickStart Template の中から面白そうなものを選んで読み解いたものです。
 
 * [[Azure] 101-cosmosdb-webapp テンプレート読み解き](https://zenn.dev/08thse/articles/03-qt-read-101-cosmosdb-webapp)
