@@ -5,6 +5,8 @@
 * [Tutorial: Build an ASP.NET Core and Azure SQL Database app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app)  
 Web Apps および Azure SQL Database で構成される Web アプリケーションをデプロイする
   * `Web Apps`, `Azure SQL Database`, `ASP.NET Core`
+* [Deploy a highly available and scalable Wordpress on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-a-highly-available-and-scalable-wordpress-on-azure/ba-p/2507554)
+  * `Virtual Machine Scale Set`, `Azure Database`, `Private Endpoint`, `Wordpress`
 * [Azure Cosmos DB with ASP.NET Core Web API](https://code-maze.com/azure-cosmos-db-with-asp-net-core-web-api/)  
 .NET Core で Cosmos DB と連携する Web API を作成する
   * `Cosmos DB`, `ASP.NET Core`, `API Apps`
