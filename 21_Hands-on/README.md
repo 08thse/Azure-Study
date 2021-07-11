@@ -34,6 +34,8 @@ Cache for Redis のサンプルアプリ。サクッと試すなら Python の�
 * [Azure Database for MySQL - フレキシブル サーバーを使用して WordPress アプリを AKS にデプロイする](https://docs.microsoft.com/ja-jp/azure/mysql/flexible-server/tutorial-deploy-wordpress-on-aks)  
   * `AKS`, `Azure Database`
 
+* [クイック スタート:初めての Azure Spring Cloud アプリケーションをデプロイする](https://docs.microsoft.com/ja-jp/azure/spring-cloud/quickstart)  
+  * `Java`, `Spring Cloud`
 
 ## Microservices (& Kubernetes, Functions, Web API)
 
