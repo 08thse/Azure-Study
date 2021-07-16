@@ -55,7 +55,6 @@ AKS に簡単なアプリをデプロイしてネットワーク接続を構成�
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`
 
-
 * [Application Gateway と API Management で API を保護する](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/apis/protect-apis)  
 API の入りの部分の考慮ポイントが分かりやすいが、バックエンドのアプリは自分で用意する必要あり
   * `Application Gateway`, `API Management`
@@ -72,6 +71,9 @@ Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
 
 * [対話型音声応答ボット](https://docs.microsoft.com/ja-jp/azure/architecture/solution-ideas/articles/interactive-voice-response-bot)  
   * `Web Apps`, `LUIS`, `Azure Search`, `Cosmos DB`
+
+* [Azure Data Lake を使用したスケーラブルなデータ サイエンス : エンド ツー エンド チュートリアル](https://docs.microsoft.com/ja-jp/azure/architecture/data-science-process/data-lake-walkthrough)
+  * `Azure Data Lake`, `Python`, `Azure Machine Learning`
 
 * [Azure DevOps Starter](https://docs.microsoft.com/ja-jp/azure/devops-project/)
 Azure DevOps を利用した CI/CD 環境を簡単に作ることができる。あとはいじるだけ！
