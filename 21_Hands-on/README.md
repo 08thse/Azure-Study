@@ -59,7 +59,7 @@ Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシー�
 API の入りの部分の考慮ポイントが分かりやすいが、バックエンドのアプリは自分で用意する必要あり
   * `Application Gateway`, `API Management`
 
-* [Azure Functions と API Management を使用して Visual Studio でサーバーレス API を作成する | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/azure-functions/openapi-apim-integrate-visual-studio)  
+* [Azure Functions と API Management を使用して Visual Studio でサーバーレス API を作成する](https://docs.microsoft.com/ja-jp/azure/azure-functions/openapi-apim-integrate-visual-studio)  
 Functions を API Management と Swagger とで連携してデプロイまで行うチュートリアル
   * `Azure Functions`, `API Gateway`, `Swagger`
 
