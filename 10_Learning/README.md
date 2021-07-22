@@ -13,6 +13,14 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 一番入門向けなAzure資格。[Microsoft Azure Virtual Training Day](https://www.microsoft.com/ja-jp/events/top/training-days.aspx) なども活用すると良いです。
 
+## Azure Developer College
+
+[Azure Developer Colleges](https://azuredevcollege.com/)
+
+英語ではあるものの [Github 上にあるコンテンツ](https://github.com/azuredevcollege/trainingdays) が充実した内容で、Azure におけるシステム開発に必要な知識について、その周辺知識とともにレクチャーしています。
+
+周辺の技術知識も含めてガッツリ学びたい方は、時間を見つけて一通り流してみることをオススメします。
+
 ## @msdevjp (Twitter)
 
 [Microsoft Tech Twitter (@msdevjp)](https://twitter.com/msdevjp)
@@ -39,7 +47,7 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 ## Azure アーキテクチャ センター
 
-とにかく様々な領域のアーキテクチャに関するドキュメントがもりだくさん。全部読むのは辛いかもしれないが、興味のあるページから読み進めると良い。
+とにかく様々な領域のアーキテクチャに関するドキュメントがもりだくさん。全部読むのは辛いかもしれませんが、興味のあるページから読み進めると良いと思います。
 
 [Azure アーキテクチャ センター - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/)
 
@@ -47,19 +55,19 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 [What's new in Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/changelog)
 
-更新情報を RSS で受け取ることもできる。英語版だが、数日後には日本語の翻訳コンテンツが公開されることが多い印象。日本語版の更新情報は[こちら](https://docs.microsoft.com/ja-jp/azure/architecture/changelog)。
+更新情報は RSS で受け取ることが可能。英語版について、数日後には日本語の翻訳コンテンツが公開されることが多い印象。日本語版の更新情報は[こちら](https://docs.microsoft.com/ja-jp/azure/architecture/changelog)。
 
 ### Azure アプリケーション アーキテクチャ ガイド
 
 [Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
 
-アーキテクチャ設計を俯瞰して捉えるのに良い。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良い。
+アーキテクチャ設計を俯瞰して捉えるのに良いです。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良いでしょう。
 
 ### .NET アプリのアーキテクチャ ガイド
 
 [.NET アプリケーション アーキテクチャのドキュメント](https://docs.microsoft.com/ja-jp/dotnet/architecture/)
 
-「電子書籍」に様々なアーキテクチャガイドがある。
+「電子書籍」に様々なアーキテクチャガイドがあります。
 
 ### Azure Well-Architected Framework
 
@@ -79,4 +87,4 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 [Draw.io](https://app.diagrams.net/)  
 [ClowdSkew](https://www.cloudskew.com/)
 
-Azureのアイコンなども簡単に利用できる。ちょっとした設計書を書く時にも便利。
+Azureのアイコンなども簡単に利用可能。ちょっとした設計書を書く時にも便利。
