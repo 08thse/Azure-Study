@@ -35,7 +35,7 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 ### Azure Advisor
 
-[Azure Advisor のドキュメント - Azure Advisor | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/advisor/)
+[Azure Advisor のドキュメント - Azure Advisor](https://docs.microsoft.com/ja-jp/azure/advisor/)
 
 「操作方法ガイド」配下のページはベストプラクティスとして確認しておくと良いと思います。
 
@@ -49,7 +49,7 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 とにかく様々な領域のアーキテクチャに関するドキュメントがもりだくさん。全部読むのは辛いかもしれませんが、興味のあるページから読み進めると良いと思います。
 
-[Azure アーキテクチャ センター - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/)
+[Azure アーキテクチャ センター - Azure Architecture Center](https://docs.microsoft.com/ja-jp/azure/architecture/)
 
 ### 更新情報
 
