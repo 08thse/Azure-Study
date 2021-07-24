@@ -4,6 +4,8 @@
 
 ## Azure Infrastructure
 
+* [Grafana (8.0) で Azure Monitor をデータソースに](https://08thse.blog.fc2.com/blog-entry-646.html)
+* [[Azure] API Management で WebSocket API と連携する](https://08thse.blog.fc2.com/blog-entry-639.html)
 * [Azure 環境内で ARM Template を共有する (Template Specs)](https://zenn.dev/08thse/articles/29-azure-template-specs)
 * [Azure Routing Preference が GA したので価格を見てみた](https://zenn.dev/08thse/articles/18-azure-routing-preference-ga)
 * [[Azure] Firewall で Web Category でのフィルタができるようになった](https://zenn.dev/08thse/articles/14-az-fw-premium-webcategory)
@@ -11,6 +13,7 @@
 
 ## Azure Functions
 
+* [[Azure] Functions 開発 (Visual Studio) で Swagger 連携](https://08thse.blog.fc2.com/blog-entry-644.html)
 * [Azure Functions 非同期リクエストの実装と Core Tools](https://zenn.dev/08thse/articles/27-azfunc-async-reqrep)
 * [[Azure Functions] 一定確率で少し待ってから応答を返す関数 (C#) - Qiita](https://qiita.com/08thse/items/766366e7e1f8892fe982)
 * [[Azure Functions] 長めの処理時間をかける関数 (C#) - Qiita](https://qiita.com/08thse/items/13852ffd5c943e604274)
@@ -18,6 +21,7 @@
 
 ## Azure Kubernetes Service (AKS)
 
+* [AKS の Secrets Store CSI driver 経由で Key Vault を使う](https://zenn.dev/08thse/articles/31-aks-csi-keyvault)
 * [Postgres Operator on Azure Kubernetes Service](https://zenn.dev/08thse/articles/28-aks-postgres-operator)
 * [Postgres Operator on Azure Kubernetes Service (2)](https://zenn.dev/08thse/articles/30-aks-postgres-operator-2)
 * [AKS で Node に接続する (kubectl debug / Azure Portal)](https://zenn.dev/08thse/articles/26-aks-connect-node)
@@ -30,6 +34,7 @@
 
 ## その他
 
+* [Kudu 上で使えるダンプ採取ツール SmartDump](https://zenn.dev/08thse/articles/32-smartdump-on-kudu)
 * [Active Directory 設計時にスルーされがちだと思うポイント](https://zenn.dev/08thse/articles/09-ad-design-point)
 * [試験目的等で Active Directory を NW 分断することはできません](https://zenn.dev/08thse/articles/17-active-directory-separate)
 * [コスト見積時には Reserved Instance を考慮しよう](https://zenn.dev/08thse/articles/20-cloud-check-ri-price)
