@@ -30,7 +30,7 @@
 * [Monitoring AKS with Prometheus を試してみた](https://zenn.dev/08thse/articles/22-monitoring-aks-prometheus)
 * [AKS 上で Helm を使って SQL Server をデプロイする](https://zenn.dev/08thse/articles/21-aks-helm-sql-server-2019)
 * [[Azure] AKS の定時起動・停止を Azure Automation で行う](https://zenn.dev/08thse/articles/04-auto-start-aks-by-azure-runbook)
-* [AKS の情報採取ツール (AKS Periscope) を試してみた | Zenn](https://zenn.dev/articles/fda5527c506dfee706d6)
+* [AKS の情報採取ツール (AKS Periscope) を試してみた](https://zenn.dev/articles/fda5527c506dfee706d6)
 
 ## その他
 
