@@ -4,6 +4,7 @@
 
 ## Azure Infrastructure
 
+* [Azure App Service のサポート範囲には注意しよう](https://zenn.dev/08thse/articles/38-app-service-support)
 * [Grafana (8.0) で Azure Monitor をデータソースに](https://08thse.blog.fc2.com/blog-entry-646.html)
 * [[Azure] API Management で WebSocket API と連携する](https://08thse.blog.fc2.com/blog-entry-639.html)
 * [Azure 環境内で ARM Template を共有する (Template Specs)](https://zenn.dev/08thse/articles/29-azure-template-specs)
@@ -21,6 +22,7 @@
 
 ## Azure Kubernetes Service (AKS)
 
+* [Keptn on Azure Kubernetes Service](https://zenn.dev/08thse/articles/40-aks-keptn)
 * [AKS の Secrets Store CSI driver 経由で Key Vault を使う](https://zenn.dev/08thse/articles/31-aks-csi-keyvault)
 * [Postgres Operator on Azure Kubernetes Service](https://zenn.dev/08thse/articles/28-aks-postgres-operator)
 * [Postgres Operator on Azure Kubernetes Service (2)](https://zenn.dev/08thse/articles/30-aks-postgres-operator-2)
