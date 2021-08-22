@@ -55,6 +55,10 @@ AKS に簡単なアプリをデプロイしてネットワーク接続を構成�
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`
 
+* [Visual Studio で Azure 関数を開発、テスト、デプロイする \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/)  
+Web API (Azure Functions) の初期サンプル。テストコードの作り方まで含んだチュートリアル 
+  * `Azure Functions`, `C#`
+
 * [Application Gateway と API Management で API を保護する](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/apis/protect-apis)  
 API の入りの部分の考慮ポイントが分かりやすいが、バックエンドのアプリは自分で用意する必要あり
   * `Application Gateway`, `API Management`
