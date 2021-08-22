@@ -84,7 +84,7 @@ Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
 * [Azure Data Lake を使用したスケーラブルなデータ サイエンス : エンド ツー エンド チュートリアル](https://docs.microsoft.com/ja-jp/azure/architecture/data-science-process/data-lake-walkthrough)
   * `Azure Data Lake`, `Python`, `Azure Machine Learning`
 
-* [Azure DevOps Starter](https://docs.microsoft.com/ja-jp/azure/devops-project/)
+* [Azure DevOps Starter](https://docs.microsoft.com/ja-jp/azure/devops-project/)  
 Azure DevOps を利用した CI/CD 環境を簡単に作ることができる。あとはいじるだけ！
   * `Web Apps`, `CI/CD`, `Azure DevOps`, `JavaScript`, etc.
 
