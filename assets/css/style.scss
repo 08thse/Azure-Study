@@ -64,6 +64,13 @@ footer {
   text-indent: 3px;
 }
 
+#main-content h3:before {
+  padding-right: 0.3em;
+  margin-left: -2em;
+  content: "";
+  color: #9ddcff;
+}
+
 #main-content h4 {
   margin-bottom: 8px;
   // font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
