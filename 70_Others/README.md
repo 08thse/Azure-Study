@@ -4,6 +4,7 @@
 
 ## Azure Infrastructure
 
+* [Azure SQL Database をバックエンドにした自前の Web API を作るまで](https://zenn.dev/08thse/articles/43-azsql-webapi)
 * [Azure App Service のサポート範囲には注意しよう](https://zenn.dev/08thse/articles/38-app-service-support)
 * [Grafana (8.0) で Azure Monitor をデータソースに](https://08thse.blog.fc2.com/blog-entry-646.html)
 * [[Azure] API Management で WebSocket API と連携する](https://08thse.blog.fc2.com/blog-entry-639.html)
