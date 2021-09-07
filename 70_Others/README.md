@@ -24,6 +24,7 @@
 
 ## Azure Kubernetes Service (AKS)
 
+* [AKS Release Note 日本語化](https://zenn.dev/dashboard)
 * [Keptn on Azure Kubernetes Service](https://zenn.dev/08thse/articles/40-aks-keptn)
 * [AKS の Secrets Store CSI driver 経由で Key Vault を使う](https://zenn.dev/08thse/articles/31-aks-csi-keyvault)
 * [Postgres Operator on Azure Kubernetes Service](https://zenn.dev/08thse/articles/28-aks-postgres-operator)
