@@ -7,6 +7,10 @@
 
 ## インフラ中心
 
+* [アーキテクトのための Azure 第3版](https://azure.microsoft.com/ja-jp/resources/azure-for-architects/ja-jp/)
+
+Azure Architecture Center 等に見られる各設計ガイダンスを中心に、体系的にまとめられている電子書籍。無償配布されているのも◎。
+
 * [Azure 定番システム設計・実装・運用ガイド](https://www.nikkeibp.co.jp/atclpubmkt/book/18/P53790/)
 
 Azure を使った Web システムのリフト＆シフトを学べる本。ハンズオンできるようにもなっているし、解説もしっかりしているし、ひととおり従来のインフラっぽい構成を学ぶには良い本。2018年初版のため古い箇所もありますが、まだ十分通用するかと。
