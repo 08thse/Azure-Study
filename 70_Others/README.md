@@ -39,6 +39,7 @@
 
 ## その他
 
+* [Web API (OpenAPI) の探索やテストに便利な HttpRepl を使ってみた](https://zenn.dev/08thse/articles/47-tool-httprepl)
 * [Kudu 上で使えるダンプ採取ツール SmartDump](https://zenn.dev/08thse/articles/32-smartdump-on-kudu)
 * [Active Directory 設計時にスルーされがちだと思うポイント](https://zenn.dev/08thse/articles/09-ad-design-point)
 * [試験目的等で Active Directory を NW 分断することはできません](https://zenn.dev/08thse/articles/17-active-directory-separate)
