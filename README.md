@@ -44,4 +44,4 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 
 ## Contribution
 
-基本的に改善提案などは大歓迎です。Issues に「これ良いよ！」とあげていただくか、普通に Fork して更新してプルリクエストをあげていただければと思います。明らかな宣伝目的などはお断りすることがあります🙇‍♂️
+基本的に改善提案などは大歓迎です。Issues に「これ良いよ！」とあげていただくか、[プルリクエストをあげて](https://docs.github.com/ja/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-your-repository)いただければと思います。明らかな宣伝目的などはお断りすることがあります🙇‍♂️
