@@ -4,7 +4,7 @@
 
 ## Web Application (& Database)
 
-* [Tutorial: Build an ASP.NET Core and Azure SQL Database app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app)  
+* [チュートリアル: Azure App Service での ASP.NET Core および Azure SQL Database アプリの作成](https://docs.microsoft.com/ja-jp/azure/app-service/tutorial-dotnetcore-sqldb-app)  
 Web Apps および Azure SQL Database で構成される Web アプリケーションをデプロイする
   * `Web Apps`, `Azure SQL Database`, `ASP.NET Core`
 
