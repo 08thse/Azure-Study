@@ -26,10 +26,6 @@ Azure周辺の勉強として良かったオンデマンドセミナなどを残
 
 Azure周辺の勉強として良かった書籍を残していっています。
 
-## [30_QuickStart_Template_読み解き](./30_QuickStart_Templates_Reading/README.md)
-
-Azure QuickStart Template の中から面白そうなものを選んで読み解いたものです。
-
 ## [70_雑記](./70_Others/README.md)
 
 調べた情報のメモや、中の人が書いた記事などを残しています。
