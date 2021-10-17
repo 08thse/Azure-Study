@@ -67,7 +67,6 @@ API の入りの部分の考慮ポイントが分かりやすいが、バック�
 Functions を API Management と Swagger とで連携してデプロイまで行うチュートリアル
   * `Azure Functions`, `API Gateway`, `Swagger`
 
-
 ## Other
 
 * [Azure Storage へのアプリの接続](https://docs.microsoft.com/ja-jp/learn/modules/connect-an-app-to-azure-storage/)  
@@ -96,3 +95,12 @@ Azure 学習目的のハンズオンではないものの、手を動かす際�
 * [TERASOLUNA Sample (Tour Reservation Sample Application)](https://github.com/terasolunaorg/terasoluna-tourreservation)  
 Java および Spring ベースのフレームワークでつくられたサンプル。UI はちょっと微妙。
   * `Java`, `PostgreSQL`, `Spring`
+
+## テンプレート関連
+
+* [Azure/azure-quickstart-templates: Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)  
+ARM Template の テンプレート集
+  * `ARM Template`
+* [Azure-Sentinel/Playbooks at master · Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)  
+Azure Sentinel の Playbook のテンプレート集
+  * `Azure Sentinel`
