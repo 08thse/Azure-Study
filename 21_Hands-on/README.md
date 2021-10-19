@@ -67,6 +67,9 @@ API の入りの部分の考慮ポイントが分かりやすいが、バック�
 Functions を API Management と Swagger とで連携してデプロイまで行うチュートリアル
   * `Azure Functions`, `API Gateway`, `Swagger`
 
+* [Terraform を使用して Azure Kubernetes Service (AKS) で Kubernetes クラスターを作成する](https://docs.microsoft.com/ja-jp/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks)
+  * `Terraform`, `AKS`
+
 ## Other
 
 * [Azure Storage へのアプリの接続](https://docs.microsoft.com/ja-jp/learn/modules/connect-an-app-to-azure-storage/)  
