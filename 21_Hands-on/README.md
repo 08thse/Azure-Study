@@ -87,6 +87,10 @@ Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
 Azure DevOps を利用した CI/CD 環境を簡単に作ることができる。あとはいじるだけ！
   * `Web Apps`, `CI/CD`, `Azure DevOps`, `JavaScript`, etc.
 
+* [Bicep を使用して Azure でリソースをデプロイして管理する \- Learn \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/bicep-deploy/)  
+Bicep を学ぶならコレ。あとは実践あるのみ！
+  * `Bicep`
+
 
 ## 検証に使えるサンプルアプリケーション等
 
