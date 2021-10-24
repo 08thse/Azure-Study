@@ -70,6 +70,11 @@ Functions を API Management と Swagger とで連携してデプロイまで行
 * [Terraform を使用して Azure Kubernetes Service (AKS) で Kubernetes クラスターを作成する](https://docs.microsoft.com/ja-jp/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks)
   * `Terraform`, `AKS`
 
+* [Securing an Azure Kubernetes Service deployment](https://techcommunity.microsoft.com/t5/apps-on-azure/securing-an-azure-kubernetes-service-deployment/ba-p/2838794)  
+AKS を使う上で適用しておきたいセキュリティ設計等。一番最後に Azure CLI で AKS を作成する際のサンプルあり
+  * `AKS`
+
+
 ## Other
 
 * [Azure Storage へのアプリの接続](https://docs.microsoft.com/ja-jp/learn/modules/connect-an-app-to-azure-storage/)  
