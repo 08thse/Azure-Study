@@ -81,6 +81,11 @@ AKS を使う上で適用しておきたいセキュリティ設計等。一番�
 Azure Storage の REST API と C# or JavaScript での簡単なアプリ実装
   * `Azure Storage`, `C#`, `JavaScript`
 
+* [Azure-Network-Security/Lab Templates](https://github.com/Azure/Azure-Network-Security/tree/master/Lab%20Templates)  
+Azure Firewall や Front Door などのネットワークおよびセキュリティ機能をそろえた環境を作成できる  
+概要の絵などは[こちら](https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-demo-lab-environment-with-new-updates-v2/ba-p/2892204)の記事も参照すると良い
+  * `Azure Firewall`, `Front Door`, `Bastion`, `DDoS Protection`
+
 * [Azure Stream Analytics によるストリーム処理](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/data/stream-processing-stream-analytics)  
 7GB ほどのサンプルデータ付き
   * `Cosmos DB`, `Event Hubs`, `Stream Analytics`
