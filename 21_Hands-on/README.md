@@ -59,6 +59,10 @@ Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシー�
 Web API (Azure Functions) の初期サンプル。テストコードの作り方まで含んだチュートリアル 
   * `Azure Functions`, `C#`
 
+* [チュートリアル: ASP.NET Core で Minimal Web API を作成する](https://docs.microsoft.com/aspnet/core/tutorials/min-web-api)  
+Minimal Web API とインメモリの簡易 DB で Web API を作ってみるチュートリアル
+  * `.NET Core`, `ASP.NET`, `Entity Framework`
+
 * [Application Gateway と API Management で API を保護する](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/apis/protect-apis)  
 API の入りの部分の考慮ポイントが分かりやすいが、バックエンドのアプリは自分で用意する必要あり
   * `Application Gateway`, `API Management`
