@@ -19,6 +19,10 @@ Azure を使った Web システムのリフト＆シフトを学べる本。ハ
 
 Azure Kubernetes Service を使って Kubernetes を一通り学べる本。Azure Container Registory も利用しているので、AKS を使う場合は通して読んでおきたい本です。
 
+* [Hands-On Kubernetes on Azure](https://azure.microsoft.com/ja-jp/resources/get-started-with-kubernetes-on-azure/)
+
+Azure Kubernetes Service を使って Kubernetes を一通り学べる。洋書ですが電子版は無償配布。Azure Service Operator や CI/CD なども網羅されており、易しい英語が大丈夫ならオススメの一冊。
+
 ## 開発中心
 
 * [Azure Functions 入門](https://project.nikkeibp.co.jp/bnt/atcl/19/P53950/)
