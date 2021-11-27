@@ -37,6 +37,10 @@ Cache for Redis のサンプルアプリ。サクッと試すなら Python の�
 * [クイック スタート:初めての Azure Spring Cloud アプリケーションをデプロイする](https://docs.microsoft.com/ja-jp/azure/spring-cloud/quickstart)  
   * `Java`, `Spring Cloud`
 
+* [Spring Boot アプリを Azure にデプロイする \- Learn \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/deploy-java-spring-boot-app-service-mysql/)  
+Spring Boot アプリケーションを作成し、MySQL (Azure Database) に接続。最終的には Azure App Service にデプロイする。
+  * `Java`, `Spring Boot`, `Azure Database`, `App Service`
+
 ## Microservices (& Kubernetes, Functions, Web API)
 
 * [Spring マイクロサービスを Azure にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/azure-spring-cloud-workshop/)  
@@ -51,7 +55,7 @@ AKS に簡単なアプリをデプロイしてネットワーク接続を構成�
 一連のチュートリアルを通して、ACR と連携した簡単なアプリのデプロイから構成変更までを試す
   * `AKS`, `ACR`, `Python`
 
-* [AAD Pod Identity の使用例 - AKS の Pod にマネージド ID で Azure リソースへのアクセス権を割り当てる](https://jpaztech.github.io/blog/containers/aks-aad-pod-identity/)
+* [AAD Pod Identity の使用例 - AKS の Pod にマネージド ID で Azure リソースへのアクセス権を割り当てる](https://jpaztech.github.io/blog/containers/aks-aad-pod-identity/)  
 AKS の AAD Pod Identity 連携を利用して、Key Vault から接続情報を取得して Cache for Redis に接続する
   * `AKS`, `Key Vault`, `Cache for Redis`
 
@@ -75,7 +79,7 @@ API の入りの部分の考慮ポイントが分かりやすいが、バック�
 Functions を API Management と Swagger とで連携してデプロイまで行うチュートリアル
   * `Azure Functions`, `API Gateway`, `Swagger`
 
-* [Terraform を使用して Azure Kubernetes Service (AKS) で Kubernetes クラスターを作成する](https://docs.microsoft.com/ja-jp/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks)
+* [Terraform を使用して Azure Kubernetes Service (AKS) で Kubernetes クラスターを作成する](https://docs.microsoft.com/ja-jp/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks)  
   * `Terraform`, `AKS`
 
 * [Securing an Azure Kubernetes Service deployment](https://techcommunity.microsoft.com/t5/apps-on-azure/securing-an-azure-kubernetes-service-deployment/ba-p/2838794)  
