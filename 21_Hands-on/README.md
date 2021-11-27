@@ -51,6 +51,10 @@ AKS に簡単なアプリをデプロイしてネットワーク接続を構成�
 一連のチュートリアルを通して、ACR と連携した簡単なアプリのデプロイから構成変更までを試す
   * `AKS`, `ACR`, `Python`
 
+* [AAD Pod Identity の使用例 - AKS の Pod にマネージド ID で Azure リソースへのアクセス権を割り当てる](https://jpaztech.github.io/blog/containers/aks-aad-pod-identity/)
+AKS の AAD Pod Identity 連携を利用して、Key Vault から接続情報を取得して Cache for Redis に接続する
+  * `AKS`, `Key Vault`, `Cache for Redis`
+
 * [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`
