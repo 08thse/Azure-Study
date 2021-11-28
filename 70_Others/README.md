@@ -25,6 +25,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
+* [Kubernetesクラスターのノードにカオス挿入してみよう～Azure Kubernetes Serviceでカオスエンジニアリング：CodeZine（コードジン）](https://codezine.jp/article/detail/14860)
 * [Bicep でカスタマイズした AKS をデプロイする](https://zenn.dev/08thse/articles/55-bicep-for-aks)
 * [AKS で Azure Policy を使ってコンプライアンス管理](https://zenn.dev/08thse/articles/51-aks-azure-policy)
 * [Keptn on Azure Kubernetes Service](https://zenn.dev/08thse/articles/40-aks-keptn)
@@ -38,6 +39,10 @@
 * [AKS 上で Helm を使って SQL Server をデプロイする](https://zenn.dev/08thse/articles/21-aks-helm-sql-server-2019)
 * [[Azure] AKS の定時起動・停止を Azure Automation で行う](https://zenn.dev/08thse/articles/04-auto-start-aks-by-azure-runbook)
 * [AKS の情報採取ツール (AKS Periscope) を試してみた](https://zenn.dev/articles/fda5527c506dfee706d6)
+
+## Azure Container Apps
+
+* [Azure Container Apps のサンプルから見る Dapr](https://zenn.dev/08thse/articles/57-az-containerapp-sample)
 
 ## QuickStart Template 読み解き
 
