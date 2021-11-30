@@ -79,6 +79,10 @@ API の入りの部分の考慮ポイントが分かりやすいが、バック�
 Functions を API Management と Swagger とで連携してデプロイまで行うチュートリアル
   * `Azure Functions`, `API Gateway`, `Swagger`
 
+* [Azure でリアルタイムのイベント ドリブン Java ソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/modules/deploy-real-time-event-driven-app/)  
+Azure Functions と Event Hub を使用して、イベントベースの利用統計情報を Azure Cosmos DB に送信する
+  * `Azure Functions`, `Cosmos DB`, `Event Hub`
+
 * [Terraform を使用して Azure Kubernetes Service (AKS) で Kubernetes クラスターを作成する](https://docs.microsoft.com/ja-jp/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks)  
   * `Terraform`, `AKS`
 
