@@ -80,6 +80,7 @@ Functions を API Management と Swagger とで連携してデプロイまで行
   * `Azure Functions`, `API Gateway`, `Swagger`
 
 * [Azure でリアルタイムのイベント ドリブン Java ソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/modules/deploy-real-time-event-driven-app/)  
+[チュートリアル:Azure Cosmos DB と Event Hubs で Java 関数を使用する \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-event-hub-cosmos-db)  
 Azure Functions と Event Hub を使用して、イベントベースの利用統計情報を Azure Cosmos DB に送信する
   * `Azure Functions`, `Cosmos DB`, `Event Hub`
 
