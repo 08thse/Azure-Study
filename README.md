@@ -6,27 +6,31 @@
 
 # 目次
 
-## [01_能力開発について](https://zenn.dev/08thse/articles/15-engineer-skillup)
+## [能力開発について](https://zenn.dev/08thse/articles/15-engineer-skillup)
 
 そもそものスキルアップにあたって、お仕事でも考えてきたことなど色々と思うところを残しています。
 
-## [10_はじめの一歩](./10_Learning/README.md)
+## [はじめの一歩](./10_Learning/README.md)
 
 Azureのスキルアップにあたり、とっつきやすい＆覚えておきたい情報源などを紹介しています。
 
-## [20_良かったセミナ等](./20_Seminar/README.md)
+## [良かったセミナ等](./20_Seminar/README.md)
 
 Azure周辺の勉強として良かったオンデマンドセミナなどを残していっています。
 
-## [21_ハンズオン系の情報](./21_Hands-on/README.md)
+## [ハンズオン系の情報](./21_Hands-on/README.md)
 
 手を動かす際に参考になるハンズオンセミナ／技術情報などを残していっています。
 
-## [25_推薦図書](./25_Books/README.md)
+## [推薦図書](./25_Books/README.md)
 
 Azure周辺の勉強として良かった書籍を残していっています。
 
-## [70_雑記](./70_Others/README.md)
+## [公式へのコントリビューション](./60_Contribution/README.md)
+
+Azure周辺の勉強として良かった書籍を残していっています。
+
+## [雑記](./70_Others/README.md)
 
 調べた情報のメモや、中の人が書いた記事などを残しています。
 
