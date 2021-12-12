@@ -58,6 +58,7 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 
 ## その他
 
+* [Azure DB の改善アイデア投稿 \(Feature Request\) をしてみた](https://zenn.dev/08thse/articles/58-azdb-idea-request)
 * [Web API (OpenAPI) の探索やテストに便利な HttpRepl を使ってみた](https://zenn.dev/08thse/articles/47-tool-httprepl)
 * [Kudu 上で使えるダンプ採取ツール SmartDump](https://zenn.dev/08thse/articles/32-smartdump-on-kudu)
 * [Active Directory 設計時にスルーされがちだと思うポイント](https://zenn.dev/08thse/articles/09-ad-design-point)

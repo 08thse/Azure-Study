@@ -25,6 +25,8 @@
 改善提案などのアイデアを投稿する公式フォーラム。投票機能もある。  
 対象のサービスを選んで「新しいアイデアの投稿」ボタンから投稿する。基本的には英語のみ。
 
+* [Azure DB の改善アイデア投稿 \(Feature Request\) をしてみた](https://zenn.dev/08thse/articles/58-azdb-idea-request)
+
 ## GitHub
 
 GitHub 上でロードマップを公開していたり、要望を Issues で受け付けているサービスがある。OSS と同様、GitHub を通じてコントリビューションすることも可能。
