@@ -25,6 +25,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
+* [\[AKS\] クラスターのローカルアカウントの無効化と、過去の資格情報の無効化](https://zenn.dev/08thse/articles/59-aks-cert-rotate)
 * [Kubernetesクラスターのノードにカオス挿入してみよう～Azure Kubernetes Serviceでカオスエンジニアリング：CodeZine（コードジン）](https://codezine.jp/article/detail/14860)
 * [Bicep でカスタマイズした AKS をデプロイする](https://zenn.dev/08thse/articles/55-bicep-for-aks)
 * [AKS で Azure Policy を使ってコンプライアンス管理](https://zenn.dev/08thse/articles/51-aks-azure-policy)
