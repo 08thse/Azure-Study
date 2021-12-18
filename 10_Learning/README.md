@@ -71,8 +71,13 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 ### Azure Well-Architected Framework
 
-[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)
+[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
 [Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
+
+VM や Storage Account などにおける可用性やコストの面での推奨事項がまとめられ始めており、設計時には是非見ておきたいポイントです。
+
+* [Virtual Machines and reliability](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/reliability)
+* [Virtual Machines and cost optimization](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/cost-optimization)
 
 ## Channel 9
 
