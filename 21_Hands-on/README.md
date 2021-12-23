@@ -91,6 +91,9 @@ Azure Functions と Event Hub を使用して、イベントベースの利用�
 AKS を使う上で適用しておきたいセキュリティ設計等。一番最後に Azure CLI で AKS を作成する際のサンプルあり
   * `AKS`
 
+* [Using Azure Kubernetes Service with Grafana and Prometheus \- Microsoft Tech Community](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-azure-kubernetes-service-with-grafana-and-prometheus/ba-p/3020459)  
+AKS 上で Grafana と Prometheus を Helm でデプロイするチュートリアル的な記事
+  * `AKS`, `Grafana`, `Prometheus`
 
 ## Other
 
