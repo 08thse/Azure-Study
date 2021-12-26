@@ -25,6 +25,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
+* [\[Azure\] Chaos Studio で AKS の Pod にカオス注入実験してみた](https://zenn.dev/08thse/articles/61-chaosstudio-aks-pod-kill)
 * [WSL2 において az aks get\-credentials を反映させる](https://zenn.dev/08thse/articles/60-aks-wsl2-kubeconfig)
 * [\[AKS\] クラスターのローカルアカウントの無効化と、過去の資格情報の無効化](https://zenn.dev/08thse/articles/59-aks-cert-rotate)
 * [Kubernetesクラスターのノードにカオス挿入してみよう～Azure Kubernetes Serviceでカオスエンジニアリング：CodeZine（コードジン）](https://codezine.jp/article/detail/14860)
