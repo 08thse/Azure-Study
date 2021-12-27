@@ -95,6 +95,10 @@ AKS を使う上で適用しておきたいセキュリティ設計等。一番�
 AKS 上で Grafana と Prometheus を Helm でデプロイするチュートリアル的な記事
   * `AKS`, `Grafana`, `Prometheus`
 
+* [Azure Kubernetes Service を使用して CNCF プロジェクトをビルドする \- Azure Example Scenarios \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/example-scenario/apps/build-cncf-incubated-graduated-projects-aks)  
+Jaegar や Ceph などの CNCF アプリが色々詰まった環境を Helm でデプロイする。詳細はリンク先から飛べる GitHub リポジトリを参照。
+  * `Kubernetes`, `Grafana`, `Ptometheus`, `Ceph`, `Jaegar`, `Harbar`, `Linkerd`, etc.
+
 ## Other
 
 * [Azure Storage へのアプリの接続](https://docs.microsoft.com/ja-jp/learn/modules/connect-an-app-to-azure-storage/)  
