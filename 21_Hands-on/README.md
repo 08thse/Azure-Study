@@ -97,7 +97,7 @@ AKS 上で Grafana と Prometheus を Helm でデプロイするチュートリ�
 
 * [Azure Kubernetes Service を使用して CNCF プロジェクトをビルドする \- Azure Example Scenarios \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/example-scenario/apps/build-cncf-incubated-graduated-projects-aks)  
 Jaegar や Ceph などの CNCF アプリが色々詰まった環境を Helm でデプロイする。詳細はリンク先から飛べる GitHub リポジトリを参照。
-  * `Kubernetes`, `Grafana`, `Ptometheus`, `Ceph`, `Jaegar`, `Harbar`, `Linkerd`, etc.
+  * `Kubernetes`, `Grafana`, `Prometheus`, `Ceph`, `Jaegar`, `Harbar`, `Linkerd`, etc.
 
 ## Other
 
@@ -127,6 +127,10 @@ Azure DevOps を利用した CI/CD 環境を簡単に作ることができる。
 * [Bicep を使用して Azure でリソースをデプロイして管理する \- Learn \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/bicep-deploy/)  
 Bicep を学ぶならコレ。あとは実践あるのみ！
   * `Bicep`
+
+* [Bicep アクションと GitHub アクションを使用して Azure リソースをデプロイする \- Learn \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/bicep-github-actions/)  
+Bicep ネタではあるものの、GitHub Actions の CI/CD について良くまとまっていると思います。
+  * `Bicep`, `GitHub`, `CI/CD`, `Pester`
 
 
 ## 検証に使えるサンプルアプリケーション等
