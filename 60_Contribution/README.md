@@ -18,6 +18,14 @@
 
 * [Japanese Localization Style Guide \- Globalization \| Microsoft Docs](https://docs.microsoft.com/en-us/globalization/localization/ministyleguides/mini-style-guide-japanese)
 
+## Microsoft Learn
+
+Microsoft Learn については、各ページの末尾にある「問題を報告」リンクをクリックするとフィードバックページに移動できるので、そこから改善点を報告します。
+
+画面ショット等を添えてフィードバックすると良いようです。
+
+* [Microsoft Learn サポート \- 既知の問題のトラブルシューティング \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/support/troubleshooting#report-feedback)
+
 ## Idea User Voice
 
 [Share your Ideas](https://feedback.azure.com/d365community/)
