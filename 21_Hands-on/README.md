@@ -41,6 +41,10 @@ Cache for Redis のサンプルアプリ。サクッと試すなら Python の�
 Spring Boot アプリケーションを作成し、MySQL (Azure Database) に接続。最終的には Azure App Service にデプロイする。
   * `Java`, `Spring Boot`, `Azure Database`, `App Service`
 
+* [クイック スタート:Microsoft ID プラットフォームを使用して ASP\.NET Core Web API を保護する](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/quickstart-v2-aspnet-core-web-api)  
+  ASP.NET Core にて、Azure AD 認証を要求するようにするチュートリアル
+  * `.NET Core`, `ASP.NET`, `Azure AD`
+
 ## Microservices (& Kubernetes, Functions, Web API)
 
 * [Spring マイクロサービスを Azure にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/azure-spring-cloud-workshop/)  
