@@ -103,6 +103,10 @@ AKS 上で Grafana と Prometheus を Helm でデプロイするチュートリ�
 Jaegar や Ceph などの CNCF アプリが色々詰まった環境を Helm でデプロイする。詳細はリンク先から飛べる GitHub リポジトリを参照。
   * `Kubernetes`, `Grafana`, `Prometheus`, `Ceph`, `Jaegar`, `Harbar`, `Linkerd`, etc.
 
+* [openfaas/workshop: Learn Serverless for Kubernetes with OpenFaaS](https://github.com/openfaas/workshop)  
+Kubernetes 上で FaaS を実装できる [OpenFaaS](https://www.openfaas.com/) のハンズオンラボ。有志による[日本語化](https://github.com/openfaas/workshop/tree/master/translations/ja)もされている。
+  * `Serverless`, `Kubernetes`, `OpenFaaS`
+
 ## Other
 
 * [Azure Storage へのアプリの接続](https://docs.microsoft.com/ja-jp/learn/modules/connect-an-app-to-azure-storage/)  
