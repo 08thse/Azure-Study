@@ -37,7 +37,7 @@ Microsoft Learn については、各ページの末尾にある「問題を報�
 
 ## GitHub
 
-GitHub 上でロードマップを公開していたり、要望を Issues で受け付けているサービスがある。  
+GitHub 上でロードマップを公開していたり、要望を Issues で受け付けているサービスがあります。  
 OSS と同様、GitHub を通じてコントリビューションすることも可能。
 
 * [Azure/AKS: Azure Kubernetes Service](https://github.com/Azure/AKS)
