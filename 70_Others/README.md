@@ -59,6 +59,7 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 * [[Azure] ARM テンプレート読み解き (デプロイ後スクリプトの自動実行)](https://zenn.dev/08thse/articles/08-qt-read-101-jenkins-cluster-2-linux-1-win)
 * [[Azure] ARM テンプレート読み解き (サイトの死活監視と ISO 8601)](https://zenn.dev/08thse/articles/10-qt-read-101-monitoring-webtest-metric-alert)
 * [[Azure] ARM テンプレート読み解き (テンプレートからの出力)](https://zenn.dev/08thse/articles/11-qt-read-101-storage-account-create)
+* [DeployToAzureポチからの卒業 / LT\_DeployToAzure \- Speaker Deck](https://speakerdeck.com/08thse/lt-deploytoazure)
 
 ## その他
 
