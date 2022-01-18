@@ -15,6 +15,10 @@ Web Apps および Azure SQL Database で構成される Web アプリケーシ�
 WebApp, Functions, Redis for Cache などなど、まとめて実装
   * `Web Apps`, `Azure SQL Database`, `Front Door`, `Functions`,`Cosmos DB`
 
+* [POC Scenario Contoso Expenses: Deploying to App Service Environment](https://github.com/Azure/fta-internalbusinessapps/blob/master/appmodernization/app-service-environment/ase-walkthrough.md)  
+  Azure Architecture Center で [安全に管理された Web アプリケーション](https://docs.microsoft.com/ja-jp/azure/architecture/example-scenario/apps/fully-managed-secure-apps) として公開されているモデル。App Service Environment での Web アプリケーションの構築ハンズオンとなっている
+  * `App Service Environment`, `Azure SQL Database`, `Application Gateway`, `CI/CD`
+
 * [Azure Cosmos DB with ASP.NET Core Web API](https://code-maze.com/azure-cosmos-db-with-asp-net-core-web-api/)  
 .NET Core で Cosmos DB と連携する Web API を作成する
   * `Cosmos DB`, `ASP.NET Core`, `API Apps`
