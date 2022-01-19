@@ -25,6 +25,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
+* [Kubecost で AKS のコストを可視化してみた](https://zenn.dev/08thse/articles/62-kubecost-on-aks)
 * [意外と色々できる、AKS の Kusto Query](https://08thse.blog.fc2.com/blog-entry-690.html)
 * [\[Azure\] Chaos Studio で AKS の Pod にカオス注入実験してみた](https://zenn.dev/08thse/articles/61-chaosstudio-aks-pod-kill)
 * [WSL2 において az aks get\-credentials を反映させる](https://zenn.dev/08thse/articles/60-aks-wsl2-kubeconfig)
