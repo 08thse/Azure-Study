@@ -38,7 +38,7 @@ Microsoft Learn については、各ページの末尾にある「問題を報�
 ## GitHub
 
 GitHub 上でロードマップを公開していたり、要望を Issues で受け付けているサービスがあります。  
-OSS と同様、GitHub を通じてコントリビューションすることも可能。
+OSS と同様、GitHub を通じてコントリビューションすることも可能です。
 
 * [Azure/AKS: Azure Kubernetes Service](https://github.com/Azure/AKS)
 * [Azure/azure\-service\-operator: Azure Service Operator allows you to create Azure resources using kubectl](https://github.com/Azure/azure-service-operator)
