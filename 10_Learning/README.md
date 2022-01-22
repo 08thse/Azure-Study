@@ -9,6 +9,13 @@ Azureのスキルアップにあたり、とっつきやすい＆覚えておき
 
 言わずと知れた学習サイト。まずはここで勉強するのが良いかと。
 
+### コレクション機能
+
+Web 上にて様々なコレクションが公開されていることがありますので、それらのラーニングパスを参考にしてみるのも良いと思います。
+
+* [Microsoft Learn Advent Calendar 2021 \- Adventar](https://adventar.org/calendars/6891)
+* [Microsoft Learn Advent Calendar 2020 \- Adventar](https://adventar.org/calendars/5090)
+
 ## Azure Fundamentals (AZ-900)
 
 一番入門向けなAzure資格。[Microsoft Azure Virtual Training Day](https://www.microsoft.com/ja-jp/events/top/training-days.aspx) なども活用すると良いです。
