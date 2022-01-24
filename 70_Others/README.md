@@ -4,6 +4,7 @@
 
 ## Azure Infrastructure
 
+* [Azureを頑張る理由と頑張り方（Cloud Skills Challenge for NTT DATA ～2021 冬の陣～ 発表資料）](https://www.slideshare.net/nttdata-tech/azure-cloud-skills-challenge-2021-nttdata)
 * [Azure Service Bus (Queue) へ一度に送信できるメッセージの上限](https://zenn.dev/08thse/articles/45-azure-servicebus-send-limit)
 * [Azure SQL Database をバックエンドにした自前の Web API を作るまで](https://zenn.dev/08thse/articles/43-azsql-webapi)
 * [Azure App Service のサポート範囲には注意しよう](https://zenn.dev/08thse/articles/38-app-service-support)
