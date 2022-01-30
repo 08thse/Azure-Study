@@ -66,6 +66,7 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 
 ## その他
 
+* [Terraform on Azure (GROWI)](https://08thse.growi.cloud/Azure/Terraform)
 * [PowerShell のソースコードと \.NET のソースコードの公開場所](https://08thse.blog.fc2.com/blog-entry-688.html)
 * [Azure DB の改善アイデア投稿 \(Feature Request\) をしてみた](https://zenn.dev/08thse/articles/58-azdb-idea-request)
 * [Web API (OpenAPI) の探索やテストに便利な HttpRepl を使ってみた](https://zenn.dev/08thse/articles/47-tool-httprepl)
