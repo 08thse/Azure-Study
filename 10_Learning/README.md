@@ -34,6 +34,12 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 日本マイクロソフトの公式Twitterアカウント。セミナ情報や記事情報など、かなり良い情報をまとめて発信してくれています。
 
+## Microsoft Base コンテンツ ポータル
+
+[Microsoft Base コンテンツ ポータル](https://www.microsoft.com/ja-jp/events/azurebase/contents/)
+
+技術営業向けくらいのドキュメントが多め。ただ、この中の FGCF (Financial-grade Cloud Fundamentals) は技術的にも濃い資料。
+
 ## Microsoft Documents
 
 [Azure のドキュメント](https://docs.microsoft.com/ja-jp/azure/)
