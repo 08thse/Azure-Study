@@ -149,9 +149,18 @@ Bicep ネタではあるものの、GitHub Actions の CI/CD について良く�
 
 Azure 学習目的のハンズオンではないものの、手を動かす際に活用できそうなサンプル等を残していっています。
 
+## アプリケーション
+
 * [TERASOLUNA Sample (Tour Reservation Sample Application)](https://github.com/terasolunaorg/terasoluna-tourreservation)  
 Java および Spring ベースのフレームワークでつくられたサンプル。UI はちょっと微妙。
   * `Java`, `PostgreSQL`, `Spring`
+
+## データベース
+
+* [aws\-samples/aws\-database\-migration\-samples: A set of sample database and associated items to allow customers to among other things follow along with published database migration recipes\.](https://github.com/aws-samples/aws-database-migration-samples)  
+[DB初学者のためのサンプルデータベース構築法 \| DevelopersIO](https://dev.classmethod.jp/articles/how-to-create-sample-database-for-begginer/)  
+AWS の DMS 向けのサンプルデータベース。SQL文で流すので、たぶん Azure Database でも使えるはず
+  * `Azure Database`, `Cosmod DB`
 
 ## テンプレート関連
 
