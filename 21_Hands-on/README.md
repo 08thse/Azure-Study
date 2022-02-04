@@ -157,7 +157,7 @@ Java および Spring ベースのフレームワークでつくられたサン�
 
 ## データベース
 
-* [aws\-samples/aws\-database\-migration\-samples: A set of sample database and associated items to allow customers to among other things follow along with published database migration recipes\.](https://github.com/aws-samples/aws-database-migration-samples)  
+* [aws\-samples/aws\-database\-migration\-samples:](https://github.com/aws-samples/aws-database-migration-samples)  
 [DB初学者のためのサンプルデータベース構築法 \| DevelopersIO](https://dev.classmethod.jp/articles/how-to-create-sample-database-for-begginer/)  
 AWS の DMS 向けのサンプルデータベース。SQL文で流すので、たぶん Azure Database でも使えるはず
   * `Azure Database`, `Cosmod DB`
