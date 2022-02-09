@@ -27,6 +27,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
+* [AKS のノードをカーネルパニックで落として復旧動作をみる](https://zenn.dev/08thse/articles/65-aks-node-down)
 * [GitHub Actions から Terraform で AKS を作成する](https://zenn.dev/08thse/articles/64-create-aks-by-terraform)
 * [Kubecost で AKS のコストを可視化してみた](https://zenn.dev/08thse/articles/62-kubecost-on-aks)
 * [意外と色々できる、AKS の Kusto Query](https://08thse.blog.fc2.com/blog-entry-690.html)
