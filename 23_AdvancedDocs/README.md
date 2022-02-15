@@ -10,6 +10,10 @@
 
 [Azure ランディング ゾーンとは \- Cloud Adoption Framework \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/landing-zone/)
 
+## Azure Review Checklists
+
+[Azure/review\-checklists](https://github.com/Azure/review-checklists)
+
 ## Azure アプリケーション アーキテクチャ ガイド
 
 [Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
