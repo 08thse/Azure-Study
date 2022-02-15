@@ -98,6 +98,8 @@ VM や Storage Account などにおける可用性やコストの面での推奨
 
 サブスクリプション (Azure アカウント) とリンクさせ、自動で Well-Architected Framework の適合状況をチェックしてくれるツール。
 
+Microsoft的には、[定期的に実行してチェックすることをオススメ](https://techcommunity.microsoft.com/t5/azure-architecture-blog/you-finished-your-well-architect-review-now-what/ba-p/3165827)しています。
+
 ## Channel 9
 
 [Channel 9](https://channel9.msdn.com/)
