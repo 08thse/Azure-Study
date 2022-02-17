@@ -1,3 +1,5 @@
+# Advanced Documents
+
 ## Financial-grade Cloud Fundamentals (FGCF)
 
 [FgCFコンテンツ一覧 \| Microsoft Base](https://www.microsoft.com/ja-jp/events/azurebase/fgcf/)
