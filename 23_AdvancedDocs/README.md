@@ -14,6 +14,10 @@
 
 [Azure/review\-checklists](https://github.com/Azure/review-checklists)
 
+主に設計時に活用できる、設計考慮事項のチェックリストを作成することができる。自動翻訳だが日本語にも対応。
+
+2022年2月現在は「Azure Kubernetes Service」「Azure Virtual Desktop」「Azure VMware Solution」「Landing Zone」「Security」といったカテゴリのみ。一般的なシステムでは「Landing Zone」と「Security」が使いやすいかと。
+
 ## Azure アプリケーション アーキテクチャ ガイド
 
 [Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
