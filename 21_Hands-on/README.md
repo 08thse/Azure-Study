@@ -67,6 +67,10 @@ AKS に簡単なアプリをデプロイしてネットワーク接続を構成�
 AKS の AAD Pod Identity 連携を利用して、Key Vault から接続情報を取得して Cache for Redis に接続する
   * `AKS`, `Key Vault`, `Cache for Redis`
 
+* [AKS のマイクロサービス アーキテクチャ \- Azure Architecture Center](https://docs.microsoft.com/ja-jp/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices)  
+リンク先の GitHub に、Kubernetes と Cosmos DB を使ったサンプルがある。が、デプロイが大変。
+  * `AKS`, `Cosmos DB`
+
 * [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`
