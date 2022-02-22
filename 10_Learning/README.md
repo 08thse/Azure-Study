@@ -108,9 +108,13 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 ## その他
 
-### 作図に便利なアプリ
+### 作図に便利なアプリ等
 
-[Draw.io](https://app.diagrams.net/)  
-[ClowdSkew](https://www.cloudskew.com/)
+* [Draw.io](https://app.diagrams.net/)
+* [ClowdSkew](https://www.cloudskew.com/)
 
 Azureのアイコンなども簡単に利用可能。ちょっとした設計書を書く時にも便利。
+
+* [mermaid](https://mermaid-js.github.io/mermaid/#/)
+
+Markdown でフローチャートなどを描ける。GitHub にて表示対応。
