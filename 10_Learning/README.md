@@ -28,6 +28,14 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 周辺の技術知識も含めてガッツリ学びたい方は、時間を見つけて一通り流してみることをオススメします。
 
+## Azure の開発者ガイド (The Developer's Guide to Azure)
+
+[Azure の開発者ガイド \- アプリの開発 \| Microsoft Azure](https://azure.microsoft.com/ja-jp/campaigns/developer-guide/)
+
+アプリ開発に関わる Azure の各種サービスの概要・使いどころやクラウドネイティブ構成などをざっと説明。日本語 (2022年2月更新) 版も提供されているが上記ページからは DL できないみたい。下記から入手可能。
+
+[開発者向け Azure へのガイド](https://clouddamcdnprodep.azureedge.net/gdc/gdcuKUFQc/original)
+
 ## @msdevjp (Twitter)
 
 [Microsoft Tech Twitter (@msdevjp)](https://twitter.com/msdevjp)
