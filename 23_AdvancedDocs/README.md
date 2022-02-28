@@ -20,6 +20,17 @@
 
 2022年2月現在は「Azure Kubernetes Service」「Azure Virtual Desktop」「Azure VMware Solution」「Landing Zone」「Security」といったカテゴリのみ。一般的なシステムでは「Landing Zone」と「Security」が使いやすいかと。
 
+## Azure Well-Architected Framework
+
+[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
+[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
+
+## Azure Mission-Critical & Azure AlwaysOn
+
+[Azure/Mission\-Critical](https://github.com/Azure/Mission-Critical)
+
+その名の通り、Azure上でミッションクリティカルなシステムを実装する際の考慮事項等がまとめられている。英語なのが少し辛いですが…
+
 ## Azure アプリケーション アーキテクチャ ガイド
 
 [Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
@@ -32,7 +43,3 @@
 
 「電子書籍」に様々なアーキテクチャガイドがあります。
 
-## Azure Well-Architected Framework
-
-[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
-[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
