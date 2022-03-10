@@ -69,6 +69,7 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 
 ## その他
 
+* [Trivy を GitHub Actions で動かしてみた](https://08thse.blog.fc2.com/blog-entry-704.html)
 * [Terraform on Azure (GROWI)](https://08thse.growi.cloud/Azure/Terraform)
 * [PowerShell のソースコードと \.NET のソースコードの公開場所](https://08thse.blog.fc2.com/blog-entry-688.html)
 * [Azure DB の改善アイデア投稿 \(Feature Request\) をしてみた](https://zenn.dev/08thse/articles/58-azdb-idea-request)
