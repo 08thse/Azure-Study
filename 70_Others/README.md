@@ -27,7 +27,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
-* [\[確認中\] AKS ScaleDown mode の違いによって、どのくらい所要時間が変わるのか？](https://zenn.dev/08thse/articles/66-aks-node-scale-down-mode)
+* [AKS ScaleDown mode の違いによって、どのくらい所要時間が変わるのか？](https://zenn.dev/08thse/articles/66-aks-node-scale-down-mode)
 * [AKS のノードをカーネルパニックで落として復旧動作をみる](https://zenn.dev/08thse/articles/65-aks-node-down)
 * [GitHub Actions から Terraform で AKS を作成する](https://zenn.dev/08thse/articles/64-create-aks-by-terraform)
 * [Kubecost で AKS のコストを可視化してみた](https://zenn.dev/08thse/articles/62-kubecost-on-aks)
