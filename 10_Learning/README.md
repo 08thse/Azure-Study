@@ -116,6 +116,10 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 ## その他
 
+### AWS を知っている人が勉強を開始する際に
+
+[AWS プロフェッショナルのための Azure \- Azure Architecture Center \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/aws-professional/)
+
 ### 作図に便利なアプリ等
 
 * [Draw.io](https://app.diagrams.net/)
