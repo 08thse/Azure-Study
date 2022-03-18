@@ -80,3 +80,11 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 * [試験目的等で Active Directory を NW 分断することはできません](https://zenn.dev/08thse/articles/17-active-directory-separate)
 * [コスト見積時には Reserved Instance を考慮しよう](https://zenn.dev/08thse/articles/20-cloud-check-ri-price)
 * [Database (PaaS) のサポート期限はチェックしておきましょう](https://zenn.dev/08thse/articles/19-cloud-check-db-eosl)
+
+# 書いている人
+
+## [sou (08thse)](https://twitter.com/08thse)
+
+* SIer勤務。得意なのはMS系だが、Linuxなど他の分野も好き。
+* 基本的にはインフラ屋。なのでインフラ屋がクラウド(Azure)を勉強する視点の方が強めです。
+* お仕事では、技術者育成なんかも考えながらやっています。

@@ -38,14 +38,6 @@ Azure周辺の勉強として良かった書籍を残しています。
 
 調べた情報のメモや、中の人が書いた記事などを残しています。
 
-# 書いている人
-
-## [sou (08thse)](https://twitter.com/08thse)
-
-* SIer勤務。得意なのはMS系だが、Linuxなど他の分野も好き。
-* 基本的にはインフラ屋。なのでインフラ屋がクラウド(Azure)を勉強する視点の方が強めです。
-* お仕事では、技術者育成なんかも考えながらやっています。
-
-## Contribution
+# Contribution
 
 基本的に改善提案などは大歓迎です。Issues に「これ良いよ！」とあげていただくか、[プルリクエストをあげて](https://docs.github.com/ja/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-your-repository)いただければと思います。明らかな宣伝目的などはお断りすることがあります🙇‍♂️
