@@ -53,6 +53,7 @@
 
 ## Azure Container Apps
 
+* [Azure Container Apps で、ひとつの Container App に複数のコンテナイメージを構成する](https://zenn.dev/08thse/articles/67-aca-multiple-containers)
 * [Azure Container Apps で Azure Container Registry と連携する時に必要だった作業](https://08thse.blog.fc2.com/blog-entry-705.html)
 * [Azure Container Apps のサンプルから見る Dapr](https://zenn.dev/08thse/articles/57-az-containerapp-sample)
 
