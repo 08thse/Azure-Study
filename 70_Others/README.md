@@ -72,6 +72,7 @@ Azure QuickStart Template の中から面白そうなものを選んで読み解
 
 ## その他
 
+* [Azure Chaos Studio \- 「Key Vault アクセス拒否」の使いどころ](https://08thse.blog.fc2.com/blog-entry-712.html)
 * [Trivy を GitHub Actions で動かしてみた](https://08thse.blog.fc2.com/blog-entry-704.html)
 * [Terraform on Azure (GROWI)](https://08thse.growi.cloud/Azure/Terraform)
 * [PowerShell のソースコードと \.NET のソースコードの公開場所](https://08thse.blog.fc2.com/blog-entry-688.html)
