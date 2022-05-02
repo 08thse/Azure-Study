@@ -43,3 +43,9 @@
 
 「電子書籍」に様々なアーキテクチャガイドがあります。
 
+## Support for Oracle Database workloads within Azure IaaS
+
+[Azure/Oracle\-Workloads\-for\-Azure: Oracle workloads for Azure infrastructure as a service \(Oracle Azure IaaS\)](https://github.com/Azure/Oracle-Workloads-for-Azure)  
+[Oracle on Azure IaaS Recommended Practices for Success](https://github.com/Azure/Oracle-Workloads-for-Azure/blob/main/Oracle%20on%20Azure%20IaaS%20Recommended%20Practices%20for%20Success.pdf)
+
+Azure IaaS 上で Oracle DB を実行 (移行) するにあたっての情報がまとめられている。
