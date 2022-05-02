@@ -27,6 +27,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
+* [AKS で Host Process Container を動かしてみた](https://zenn.dev/08thse/articles/69-aks-hostprocess-container)
 * [AKS におけるリソース予約系のアップデート](https://08thse.blog.fc2.com/blog-entry-709.html)
 * [AKS ScaleDown mode の違いによって、どのくらい所要時間が変わるのか？](https://zenn.dev/08thse/articles/66-aks-node-scale-down-mode)
 * [AKS のノードをカーネルパニックで落として復旧動作をみる](https://zenn.dev/08thse/articles/65-aks-node-down)
