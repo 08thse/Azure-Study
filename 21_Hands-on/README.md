@@ -115,6 +115,10 @@ AKS 上で Grafana と Prometheus を Helm でデプロイするチュートリ�
 Jaegar や Ceph などの CNCF アプリが色々詰まった環境を Helm でデプロイする。詳細はリンク先から飛べる GitHub リポジトリを参照。
   * `Kubernetes`, `Grafana`, `Prometheus`, `Ceph`, `Jaegar`, `Harbar`, `Linkerd`, etc.
 
+* [Using Azure Service Operator to provision and manage Azure Database for MySQL \- Flexible Server from within Kubernetes](https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/using-azure-service-operator-to-provision-azure-db-for-mysql/ba-p/3056231)  
+Azure Service Operator を利用して Azure Database のリソースを構成する方法
+  * `AKS`, `Azure Database`
+
 * [openfaas/workshop: Learn Serverless for Kubernetes with OpenFaaS](https://github.com/openfaas/workshop)  
 Kubernetes 上で FaaS を実装できる [OpenFaaS](https://www.openfaas.com/) のハンズオンラボ。有志による[日本語化](https://github.com/openfaas/workshop/tree/master/translations/ja)もされている。
   * `Serverless`, `Kubernetes`, `OpenFaaS`
