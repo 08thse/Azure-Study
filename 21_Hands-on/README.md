@@ -71,9 +71,13 @@ AKS の AAD Pod Identity 連携を利用して、Key Vault から接続情報を
 リンク先の GitHub に、Kubernetes と Cosmos DB を使ったサンプルがある。が、デプロイが大変。
   * `AKS`, `Cosmos DB`
 
+* [Container Apps (Preview) Example Scenario](https://github.com/mspnp/container-apps-fabrikam-dronedelivery)  
+上記の Container Apps 版
+  * `Container Apps`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
+
 * [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
-  * `Cognitive Service`
+  * `Cognitive Service`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
 
 * [Visual Studio で Azure 関数を開発、テスト、デプロイする \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/)  
 Web API (Azure Functions) の初期サンプル。テストコードの作り方まで含んだチュートリアル 
