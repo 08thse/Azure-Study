@@ -116,6 +116,12 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 英語中心ですが、時々面白い動画コンテンツが公開されています。
 
+## Azure AD webinar
+
+https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md
+
+Azure AD に関するオンデマンドセミナが沢山！
+
 ## その他
 
 ### AWS を知っている人が勉強を開始する際に
