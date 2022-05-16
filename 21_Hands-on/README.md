@@ -71,6 +71,10 @@ AKS の AAD Pod Identity 連携を利用して、Key Vault から接続情報を
 リンク先の GitHub に、Kubernetes と Cosmos DB を使ったサンプルがある。が、デプロイが大変。
   * `AKS`, `Cosmos DB`
 
+* [\.NET と ASP\.NET Core を使用してマイクロサービスを作成する \- Learn \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/paths/create-microservices-with-dotnet/)  
+AKS 上でマイクロサービスを動作させ、サーキットブレーカーなどの様々な改修を実施していくラーニングパス
+  * `AKS`, `ASP.NET`, `Polly`
+
 * [Container Apps (Preview) Example Scenario](https://github.com/mspnp/container-apps-fabrikam-dronedelivery)  
 上記の Container Apps 版
   * `Container Apps`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
