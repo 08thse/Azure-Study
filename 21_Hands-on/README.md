@@ -160,6 +160,9 @@ Bicep を学ぶならコレ。あとは実践あるのみ！
 Bicep ネタではあるものの、GitHub Actions の CI/CD について良くまとまっていると思います。
   * `Bicep`, `GitHub`, `CI/CD`, `Pester`
 
+* [Get Started \- Azure \| Terraform \- HashiCorp Learn](https://learn.hashicorp.com/collections/terraform/azure-get-started)  
+Terraform の Azure チュートリアル
+
 
 ## 検証に使えるサンプルアプリケーション等
 
