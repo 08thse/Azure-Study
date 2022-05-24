@@ -37,6 +37,12 @@
 
 アーキテクチャ設計を俯瞰して捉えるのに良いです。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良いでしょう。
 
+## クラウドアプリケーションのベストプラクティス
+
+[クラウド アプリケーションのベスト プラクティス](https://docs.microsoft.com/ja-jp/azure/architecture/best-practices/index-best-practices)
+
+API 設計に始まり、キャッシュや CDN などなど、一通りのクラウド系の設計要素がまとめられたもの。
+
 ## .NET アプリのアーキテクチャ ガイド
 
 [.NET アプリケーション アーキテクチャのドキュメント](https://docs.microsoft.com/ja-jp/dotnet/architecture/)
