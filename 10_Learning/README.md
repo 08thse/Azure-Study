@@ -16,6 +16,12 @@ Web 上にて様々なコレクションが公開されていることがあり�
 * [Microsoft Learn Advent Calendar 2021 \- Adventar](https://adventar.org/calendars/6891)
 * [Microsoft Learn Advent Calendar 2020 \- Adventar](https://adventar.org/calendars/5090)
 
+## Azure Skills Navigator
+
+「System Administrators」と「Solution Architects」へのスキルアップのロードマップ資料
+
+[New Azure Skilling Guides\! \- Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/new-azure-skilling-guides/ba-p/3423689)
+
 ## Azure Fundamentals (AZ-900)
 
 一番入門向けなAzure資格。[Microsoft Azure Virtual Training Day](https://www.microsoft.com/ja-jp/events/top/training-days.aspx) なども活用すると良いです。
