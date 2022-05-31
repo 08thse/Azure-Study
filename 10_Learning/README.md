@@ -116,6 +116,12 @@ VM や Storage Account などにおける可用性やコストの面での推奨
 
 Microsoft的には、[定期的に実行してチェックすることをオススメ](https://techcommunity.microsoft.com/t5/azure-architecture-blog/you-finished-your-well-architect-review-now-what/ba-p/3165827)しています。
 
+### AWS Well-Architected (Framework)
+
+こちらは AWS の Well-Architected シリーズ。クラウドの考え方としては抽象化して Azure でも参考になるネタは多いですし、読んでおいて損はないかと。
+
+[AWS Well\-Architected – 安全で効率的なクラウドアプリケーション](https://aws.amazon.com/jp/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
 ## Channel 9
 
 [Channel 9](https://channel9.msdn.com/)
