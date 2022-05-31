@@ -122,6 +122,8 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 [AWS Well\-Architected – 安全で効率的なクラウドアプリケーション](https://aws.amazon.com/jp/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
 
+読み進め方は、[こちら](https://dev.classmethod.jp/articles/aws-well-architected-guide2022/)が大変参考になります。
+
 ## Channel 9
 
 [Channel 9](https://channel9.msdn.com/)
