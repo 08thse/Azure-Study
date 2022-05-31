@@ -4,6 +4,7 @@
 
 ## Azure Infrastructure
 
+* [\[MS Build 2022\] Mark Russinovich による Azure イノベーション](https://zenn.dev/08thse/scraps/b687622eae2337)
 * [Azureを頑張る理由と頑張り方（Cloud Skills Challenge for NTT DATA ～2021 冬の陣～ 発表資料）](https://www.slideshare.net/nttdata-tech/azure-cloud-skills-challenge-2021-nttdata)
 * [\[Azure\] コンテナイメージを作って ACR に上げるまで](https://08thse.blog.fc2.com/blog-entry-694.html)
 * [Azure Service Bus (Queue) へ一度に送信できるメッセージの上限](https://zenn.dev/08thse/articles/45-azure-servicebus-send-limit)
