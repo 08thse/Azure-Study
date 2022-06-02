@@ -10,7 +10,21 @@
 
 * [Microsoft Docs 共同作成者ガイド概要 \- Contributor Guide \| Microsoft Docs](https://docs.microsoft.com/ja-jp/contribute/)
 
+Build 2022 より 20:00 ごろから。「プルリクエストは遠慮なく送って！」とのこと。
+
+* [GitHub + Microsoft Docs + お客様](https://mybuild.microsoft.com/ja-JP/sessions/556d5cc8-beb5-4811-8e91-2f6cd46af79a)
+
 ## Microsoft Docs (翻訳)
+
+現在はメールで Feedback する方法になっている。下記はメールひな形へのリンク。
+
+http://aka.ms/DocSiteLocFeedback
+
+Build 2022 より 23:00 手前ごろから。
+
+* [GitHub + Microsoft Docs + お客様](https://mybuild.microsoft.com/ja-JP/sessions/556d5cc8-beb5-4811-8e91-2f6cd46af79a)
+
+### old
 
 日本語ドキュメントの右上に「編集」ボタンがあれば提案可。
 
