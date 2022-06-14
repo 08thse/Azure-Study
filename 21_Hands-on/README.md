@@ -79,6 +79,10 @@ AKS 上でマイクロサービスを動作させ、サーキットブレーカ�
 上記の Container Apps 版
   * `Container Apps`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
 
+* [Azure Container Apps のサンプル \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/container-apps/samples)  
+Azure Container Apps の公式サンプルチュートリアルがまとまっているページ
+  * `Container Apps`
+
 * [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
