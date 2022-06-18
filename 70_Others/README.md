@@ -57,6 +57,7 @@
 
 ## Azure Container Apps
 
+* [Docker Compose の構成ファイルを使って Azure Container Apps をデプロイする](https://zenn.dev/08thse/articles/72-aca-docker-compose)
 * [Azure Container Apps で、正常性プローブを構成する](https://zenn.dev/08thse/articles/68-aca-configure-prove)
 * [Azure Container Apps で、ひとつの Container App に複数のコンテナイメージを構成する](https://zenn.dev/08thse/articles/67-aca-multiple-containers)
 * [Azure Container Apps で Azure Container Registry と連携する時に必要だった作業](https://08thse.blog.fc2.com/blog-entry-705.html)
