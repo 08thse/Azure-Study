@@ -124,6 +124,12 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 読み進め方は、[こちら](https://dev.classmethod.jp/articles/aws-well-architected-guide2022/)が大変参考になります。
 
+## Azure 標準化ガイドライン
+
+https://github.com/Azure/Azure-standardization-guideline
+
+Azure 上にシステムを構築するにあたり検討しておいた方が良いことが詰まっている。「テーラリングが前提」ではあるものの、一旦すべて目を通しておいて損はないと思います。また、「最新情報は適宜確認すること」は重要ですね。
+
 ## Channel 9
 
 [Channel 9](https://channel9.msdn.com/)
