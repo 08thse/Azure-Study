@@ -29,6 +29,7 @@
 ## Azure Kubernetes Service (AKS)
 
 * [AKS Release Note 日本語化](https://zenn.dev/08thse/books/aks-release-notes)
+* [JavaScript な Kubernetes Job を作成する \(on AKS\)](https://zenn.dev/08thse/articles/73-js-container-job)
 * [AKS で ContainerLogV2 スキーマを試してみた](https://zenn.dev/08thse/articles/71-aks-containerlogv2)
 * [AKS で Host Process Container を動かしてみた](https://zenn.dev/08thse/articles/69-aks-hostprocess-container)
 * [AKS におけるリソース予約系のアップデート](https://08thse.blog.fc2.com/blog-entry-709.html)
