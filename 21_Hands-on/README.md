@@ -87,6 +87,10 @@ Azure Container Apps の公式サンプルチュートリアルがまとまっ�
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
 
+* [Azure Tips and Tricks \- How to containerize and deploy a Java app to Azure](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-how-to-containerize-and-deploy-a-java-app/ba-p/3580169)  
+Java のサンプルアプリケーション付きで、コンテナをビルドして AKS で動作させるチュートリアル
+  * `AKS`, `Java`
+
 * [Visual Studio で Azure 関数を開発、テスト、デプロイする \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/)  
 Web API (Azure Functions) の初期サンプル。テストコードの作り方まで含んだチュートリアル 
   * `Azure Functions`, `C#`
