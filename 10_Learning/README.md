@@ -126,7 +126,7 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 ## Azure 標準化ガイドライン
 
-https://github.com/Azure/Azure-standardization-guideline
+<https://github.com/Azure/Azure-standardization-guideline>
 
 Azure 上にシステムを構築するにあたり検討しておいた方が良いことが詰まっている。「テーラリングが前提」ではあるものの、一旦すべて目を通しておいて損はないと思います。また、「最新情報は適宜確認すること」は重要ですね。
 
@@ -138,7 +138,7 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 
 ## Azure AD webinar
 
-https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md
+<https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md>
 
 Azure AD に関するオンデマンドセミナが沢山！
 
