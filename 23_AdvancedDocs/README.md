@@ -25,6 +25,10 @@
 [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
 [Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
 
+### Well-Architected Framework 解説セッション
+
+[Well\-Architected Framework 全体像と、5つのピラー解説](https://note.microsoft.com/CatalogueDisplay-SRDEM82102_CatalogDisplayPage.html)
+
 ## Azure Mission-Critical & Azure AlwaysOn
 
 [Azure/Mission\-Critical](https://github.com/Azure/Mission-Critical)
