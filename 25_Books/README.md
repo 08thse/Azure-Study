@@ -21,7 +21,7 @@ Azure Kubernetes Service を使って Kubernetes を一通り学べる本。Azur
 
 * [Hands-On Kubernetes on Azure](https://azure.microsoft.com/ja-jp/resources/get-started-with-kubernetes-on-azure/)
 
-Azure Kubernetes Service を使って Kubernetes を一通り学べる。洋書ですが電子版は無償配布。Azure Service Operator や CI/CD なども網羅されており、易しい英語が大丈夫ならオススメの一冊。
+Azure Kubernetes Service を使って Kubernetes を一通り学べる本。洋書ですが電子版は無償配布。Azure Service Operator や CI/CD なども網羅されており、易しい英語が大丈夫ならオススメの一冊。
 
 ## 開発中心
 
