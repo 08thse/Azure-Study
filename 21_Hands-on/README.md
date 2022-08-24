@@ -171,6 +171,8 @@ Bicep ネタではあるものの、GitHub Actions の CI/CD について良く�
 * [Get Started \- Azure \| Terraform \- HashiCorp Learn](https://learn.hashicorp.com/collections/terraform/azure-get-started)  
 Terraform の Azure チュートリアル
 
+* [GraphQL on Azure: Part 1 \- Getting Started](https://www.aaron-powell.com/posts/2020-07-13-graphql-on-azure-part-1-getting-started/)  
+GraphQL のサーバを立てる。Cosmos DB の活用など、色々なテーマを絡めているハンズオン
 
 ## 検証に使えるサンプルアプリケーション等
 
