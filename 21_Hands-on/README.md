@@ -83,6 +83,10 @@ AKS 上でマイクロサービスを動作させ、サーキットブレーカ�
 Azure Container Apps の公式サンプルチュートリアルがまとまっているページ
   * `Container Apps`
 
+* [Red Dog Demo: Azure Container Apps Deployment](https://github.com/Azure/reddog-containerapps)  
+Azure Container Apps の大きめなサンプル。Cosmos DB や Pubsub での Dapr 連携なども構築される
+  * `Container Apps`, `Cosmos DB`, `Cache for Redis`
+
 * [How to build a personal finance app using Azure](https://techcommunity.microsoft.com/t5/azure-ai/how-to-build-a-personal-finance-app-using-azure/ba-p/2088995)  
 Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシート画像からお小遣い帳サイトを作る
   * `Cognitive Service`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
