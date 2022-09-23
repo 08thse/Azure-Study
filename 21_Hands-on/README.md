@@ -92,7 +92,8 @@ Cognitive Service (Form Recognizer, Cognitive Search) を利用し、レシー�
   * `Cognitive Service`, `Cosmos DB`, `Cache for Redis`, `Service Bus`
 
 * [Azure Tips and Tricks \- How to containerize and deploy a Java app to Azure](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-tips-and-tricks-how-to-containerize-and-deploy-a-java-app/ba-p/3580169)  
-Java のサンプルアプリケーション付きで、コンテナをビルドして AKS で動作させるチュートリアル
+[Java アプリをコンテナー化して Azure にデプロイする \- Training \| Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/containerize-deploy-java-app-aks/)  
+Java のサンプルアプリケーション付きで、コンテナをビルドして AKS で動作させるチュートリアル  
   * `AKS`, `Java`
 
 * [Visual Studio で Azure 関数を開発、テスト、デプロイする \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/develop-test-deploy-azure-functions-with-visual-studio/)  
