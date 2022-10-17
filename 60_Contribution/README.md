@@ -16,9 +16,9 @@ Build 2022 より 20:00 ごろから。「プルリクエストは遠慮なく�
 
 ## Microsoft Docs (翻訳)
 
-現在はメールで Feedback する方法になっている。下記はメールひな形へのリンクは[こちら](http://aka.ms/DocSiteLocFeedback)。
+現在はメールで Feedback する方法になっている。メールひな形へのリンクは[こちら](http://aka.ms/DocSiteLocFeedback)。
 
-Build 2022 より 23:00 手前ごろから。
+Build 2022 にて、コントリビューション推進のお願い動画。23:00 手前ごろから。
 
 * [GitHub + Microsoft Docs + お客様](https://mybuild.microsoft.com/ja-JP/sessions/556d5cc8-beb5-4811-8e91-2f6cd46af79a)
 
