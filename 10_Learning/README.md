@@ -22,9 +22,17 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 [New Azure Skilling Guides\! \- Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/new-azure-skilling-guides/ba-p/3423689)
 
-## Azure Fundamentals (AZ-900)
+## Microsoft Virtual Training Days
 
-一番入門向けなAzure資格。[Microsoft Azure Virtual Training Day](https://www.microsoft.com/ja-jp/events/top/training-days.aspx) なども活用すると良いです。
+[Virtual Training Days](https://www.microsoft.com/ja-jp/events/top/training-days)
+
+無償で開催されるトレーニングイベントのスケジュール。一部のコースは資格試験の受験バウチャも配布される。
+
+### Azure Fundamentals (AZ-900)
+
+[試験 AZ\-900: Microsoft Azure Fundamentals \- Certifications \| Microsoft Learn](https://learn.microsoft.com/ja-jp/certifications/exams/az-900)
+
+一番入門向けなAzure資格。まずはここから取得してみましょう。
 
 ## Azure Developer College
 
