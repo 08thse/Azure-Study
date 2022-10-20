@@ -150,6 +150,12 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 
 英語中心ですが、時々面白い動画コンテンツが公開されています。
 
+## Workshop-O-Matic
+
+[microsoft/workshop\-library: A library of workshops written by and for Microsoft Learn Student Ambassadors and Cloud Advocates and their local communities](https://github.com/microsoft/workshop-library)
+
+AI系、Data系、Web系のワークショップ題材を集めたもので、どちらかというと講師向けに用意されたリポジトリとのこと。内容的には基礎レベル。
+
 ## Azure AD webinar
 
 <https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md>
