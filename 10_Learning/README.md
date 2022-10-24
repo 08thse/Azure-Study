@@ -162,6 +162,12 @@ AI系、Data系、Web系のワークショップ題材を集めたもので、�
 
 Azure AD に関するオンデマンドセミナが沢山！
 
+## Microsoft Azure 総合事例集
+
+[Microsoft Azure 総合事例集 [2022年9月版]](https://info.microsoft.com/JA-MigSQL-CNTNT-FY23-09Sep-28-Microsoft-Azure-Collaboration-Case-Collection-September-2022-Edition-SRGCM7842_LP01-Registration---Form-in-Body.html)
+
+具体的な実装というよりは、どんなソリューションをどんな目的でビジネスに活用しているのか、という観点で参考に。
+
 ## その他
 
 ### AWS を知っている人が勉強を開始する際に
