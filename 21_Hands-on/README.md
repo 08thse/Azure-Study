@@ -193,6 +193,14 @@ Java および Spring ベースのフレームワークでつくられたサン�
 Azure のコンテナサービス系ではおなじみ、投票サンプルアプリケーション。永続DBは無し。
   * `AKS`, `Python`
 
+* [dotnet\-architecture/eShopOnContainers:](https://github.com/dotnet-architecture/eShopOnContainers)  
+.NET Core によるマイクロサービスのサンプル。AKS にもデプロイ可能。
+  * `AKS`, `.NET`
+
+* [dotnet\-architecture/eShopOnDapr:](https://github.com/dotnet-architecture/eShopOnDapr)  
+上記 eShop アプリの Dapr 対応版。Azure Container Apps にもデプロイ可能。
+  * `Dapr`, `Container Apps`, `.NET`
+
 ### データベース
 
 * [aws\-samples/aws\-database\-migration\-samples:](https://github.com/aws-samples/aws-database-migration-samples)  
