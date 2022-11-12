@@ -7,7 +7,7 @@
 ## Cloud Adoption Framework (CAF)
 
 * [Azure 向けの Microsoft Cloud 導入フレームワーク \- Cloud Adoption Framework \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/cloud-adoption-framework/)
-  * [Azure 向けの Microsoft クラウド導入フレームワークのガバナンス \- Cloud Adoption Framework \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/govern/)
+  * [ガバナンス ガイド](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/govern/)
 
 ### Azure Landing Zone
 
