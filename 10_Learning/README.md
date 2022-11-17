@@ -181,6 +181,10 @@ Azure AD に関するオンデマンドセミナが沢山！
 
 Azureのアイコンなども簡単に利用可能。ちょっとした設計書を書く時にも便利。
 
+* [Azure アイコン \- Azure Architecture Center \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/architecture/icons/)
+
+Azure アーキテクチャ アイコンの公式コレクション
+
 * [mermaid](https://mermaid-js.github.io/mermaid/#/)
 
 Markdown でフローチャートなどを描ける。GitHub にて表示対応。
