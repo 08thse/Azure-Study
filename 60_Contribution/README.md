@@ -6,9 +6,9 @@
 
 英語版も確認し、英語版の方も誤りがあった場合は英語版の方で Feedback することをオススメ。右上に「Edit」ボタンがあれば提案可。
 
-まずは下記の Microsoft Docs 共同作成者ガイドに目を通しておくと良いです。
+まずは下記のドキュメント共同作成者ガイドに目を通しておくと良いです。
 
-* [Microsoft Docs 共同作成者ガイド概要 \- Contributor Guide \| Microsoft Docs](https://docs.microsoft.com/ja-jp/contribute/)
+* [Microsoft Learn ドキュメント共同作成者ガイドの概要 \- Contributor guide \| Microsoft Learn](https://learn.microsoft.com/ja-jp/contribute/)
 
 Build 2022 より 20:00 ごろから。「プルリクエストは遠慮なく送って！」とのこと。
 
@@ -28,7 +28,7 @@ Build 2022 にて、コントリビューション推進のお願い動画。23:
 
 念のため、下記の Style Guide に一度は目を通しておくと良いかと。
 
-* [Japanese Localization Style Guide \- Globalization \| Microsoft Docs](https://docs.microsoft.com/en-us/globalization/localization/ministyleguides/mini-style-guide-japanese)
+* [Japanese Localization Style Guide \- Globalization \| Microsoft Learn](https://learn.microsoft.com/en-us/globalization/localization/ministyleguides/mini-style-guide-japanese)
 
 ## Microsoft Learn
 
@@ -36,7 +36,7 @@ Microsoft Learn については、各ページの末尾にある「問題を報�
 
 画面ショット等を添えてフィードバックすると良いようです。
 
-* [Microsoft Learn サポート \- 既知の問題のトラブルシューティング \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/support/troubleshooting#report-feedback)
+* [Microsoft Learn サポート \- 既知の問題のトラブルシューティング \| Microsoft Learn](https://learn.microsoft.com/ja-jp/training/support/troubleshooting#report-feedback)
 
 ## Idea User Voice
 
