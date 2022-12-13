@@ -22,6 +22,10 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 [New Azure Skilling Guides\! \- Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/new-azure-skilling-guides/ba-p/3423689)
 
+「Network Engineers」も追加されました。
+
+[Azure Skills Navigator for Network Engineers](https://azure.microsoft.com/ja-jp/resources/azure-skills-navigator-for-network-engineers-/)
+
 ## Microsoft Virtual Training Days
 
 [Virtual Training Days](https://www.microsoft.com/ja-jp/events/top/training-days)
