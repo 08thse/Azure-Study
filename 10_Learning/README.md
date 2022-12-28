@@ -174,6 +174,12 @@ Azure AD に関するオンデマンドセミナが沢山！
 
 ## その他
 
+### Microsoft Azure の歴史 (IaaS)
+
+[Microsoft Azure の歴史 \| Japan Azure IaaS Core Support Blog](https://jpaztech.github.io/blog/other/azure_history_and_career_in_support/)
+
+コラム的ではありますが、なかなか面白い中の人による記事。
+
 ### AWS を知っている人が勉強を開始する際に
 
 [AWS プロフェッショナルのための Azure \- Azure Architecture Center \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/architecture/aws-professional/)
