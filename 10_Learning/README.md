@@ -86,6 +86,13 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 「日本マイクロソフトの社員が作成してネット上に公開している日本語の Azure 技術情報へのポインタを、有志の社員が取りまとめてリスト化・公開しているもの」とのこと。社員さんのブログや開発チームのブログが集約された情報がすごいです。
 
+## FastTrack for Azure (技術セッション)
+
+[FastTrack for Azure](https://learn.microsoft.com/ja-jp/training/azure/fasttrack)
+
+「FastTrack for Azure」自体は導入時のサポート・ガイダンスを得られるメニューですが、こちらで時々配信される技術セッションがあります。  
+[こちら](https://developer.microsoft.com/ja-jp/reactor/?search=fasttrack)から今後の予定されているセッションを、[こちら](https://learn.microsoft.com/ja-jp/fasttrack/)から一部の過去セッションの録画を見ることができます。
+
 ## Channel 9
 
 [Channel 9](https://channel9.msdn.com/)
