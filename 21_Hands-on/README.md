@@ -42,8 +42,8 @@ Cache for Redis のサンプルアプリ。サクッと試すなら Python の�
 ハンズオンセミナの展開資料。CI/CD やモニタリング、自動スケーリングなど一通りの操作を学べる
   * `Spring Apps`, `Java`, `Spring Boot`
 
-* [クイック スタート:初めての Azure Spring Cloud アプリケーションをデプロイする](https://docs.microsoft.com/ja-jp/azure/spring-cloud/quickstart)  
-  * `Java`, `Spring Cloud`
+* [クイックスタート: 初めてのアプリケーションを Azure Spring Apps にデプロイする](https://learn.microsoft.com/ja-jp/azure/spring-apps/quickstart)  
+  * `Java`, `Spring Apps`
 
 * [Spring Boot アプリを Azure にデプロイする \- Learn \| Microsoft Docs](https://docs.microsoft.com/ja-jp/learn/modules/deploy-java-spring-boot-app-service-mysql/)  
 Spring Boot アプリケーションを作成し、MySQL (Azure Database) に接続。最終的には Azure App Service にデプロイする。
@@ -56,7 +56,7 @@ Spring Boot アプリケーションを作成し、MySQL (Azure Database) に接
 ## Microservices (& Kubernetes, Functions, Web API)
 
 * [Spring マイクロサービスを Azure にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/azure-spring-cloud-workshop/)  
-Azure Spring Cloud と Azure Database を使用して Spring Boot アプリをデプロイする
+Azure Spring Apps と Azure Database を使用して Spring Boot アプリをデプロイする
   * `Spring Boot`, `Azure Database`, `Java`
 
 * [コンテナー化されたアプリケーションを Azure Kubernetes Service にデプロイする](https://docs.microsoft.com/ja-jp/learn/modules/aks-deploy-container-app/)  
