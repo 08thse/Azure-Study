@@ -54,6 +54,12 @@ API 設計に始まり、キャッシュや CDN などなど、一通りのク�
 
 「電子書籍」に様々なアーキテクチャガイドがあります。
 
+### Reliable web app pattern for .NET
+
+[\.NET に対して信頼性の高い Web アプリ パターンを適用する \- Azure Reference Architectures \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/architecture/reference-architectures/reliable-web-app/dotnet/apply-pattern)
+
+.NET をベースにした高信頼 Web アプリパターンの実践。英語だが解説動画と一緒に公開されている。
+
 ## Support for Oracle Database workloads within Azure IaaS
 
 [Azure/Oracle\-Workloads\-for\-Azure: Oracle workloads for Azure infrastructure as a service \(Oracle Azure IaaS\)](https://github.com/Azure/Oracle-Workloads-for-Azure)  
