@@ -2,6 +2,24 @@
 
 手を動かす際に参考になるハンズオンセミナ／技術情報などを残していっています。サービスごとにまとめようと思いましたが、複数サービスを使うハンズオンなども多いため、疑似タグっぽくしてみました。
 
+## まとめサイト
+
+* [Microsoft Cloud Workshop](https://microsoftcloudworkshop.com/)
+
+いくつかのハンズオンラボ用コンテンツが集約。英語。
+
+* [Azure Citadel](https://www.azurecitadel.com/)
+
+コミュニティでメンテされているハンズオン・ワークショップ用のコンテンツ。英語。
+
+* [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)
+
+ハッカソン用のコンテンツ。コーチ用もあるので大丈夫。英語。
+
+* [ハンズオン・ワークショップ用のコンテンツ](https://github.com/dahatake/Azure-Workshops)
+
+2020年ごろと少し古いですが、日本 MS の中の人によりまとめられた各サービスのハンズオン集。
+
 ## Web Application (& Database)
 
 * [チュートリアル: Azure App Service での ASP.NET Core および Azure SQL Database アプリの作成](https://docs.microsoft.com/ja-jp/azure/app-service/tutorial-dotnetcore-sqldb-app)  
