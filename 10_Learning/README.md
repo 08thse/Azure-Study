@@ -99,11 +99,9 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 英語中心ですが、時々面白い動画コンテンツが公開されています。
 
-## Workshop-O-Matic
+## ハンズオン系の情報
 
-[microsoft/workshop\-library: A library of workshops written by and for Microsoft Learn Student Ambassadors and Cloud Advocates and their local communities](https://github.com/microsoft/workshop-library)
-
-AI系、Data系、Web系のワークショップ題材を集めたもので、どちらかというと講師向けに用意されたリポジトリとのこと。内容的には基礎レベル。
+ハンズオン系の情報は[こちら](../21_Hands-on/README.md)でも。
 
 ## Azure AD webinar
 

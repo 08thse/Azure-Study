@@ -12,6 +12,10 @@
 
 コミュニティでメンテされているハンズオン・ワークショップ用のコンテンツ。英語。
 
+* [microsoft/workshop\-library](https://github.com/microsoft/workshop-library)
+
+AI系、Data系、Web系のワークショップ題材を集めたもので、どちらかというと講師向けに用意されたリポジトリとのこと。内容的には基礎レベル。
+
 * [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack)
 
 ハッカソン用のコンテンツ。コーチ用もあるので大丈夫。英語。
