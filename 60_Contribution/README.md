@@ -16,19 +16,19 @@ Build 2022 より 20:00 ごろから。「プルリクエストは遠慮なく�
 
 ## Microsoft Docs (翻訳)
 
-現在はメールで Feedback する方法になっている。メールひな形へのリンクは[こちら](http://aka.ms/DocSiteLocFeedback)。
-
-Build 2022 にて、コントリビューション推進のお願い動画。23:00 手前ごろから。
-
-* [GitHub + Microsoft Docs + お客様](https://mybuild.microsoft.com/ja-JP/sessions/556d5cc8-beb5-4811-8e91-2f6cd46af79a)
-
-### old
-
-日本語ドキュメントの右上に「編集」ボタンがあれば提案可。
+[こちら](https://aka.ms/provide-feedback)のフィードバックフォームから英語で送信。
 
 念のため、下記の Style Guide に一度は目を通しておくと良いかと。
 
 * [Japanese Localization Style Guide \- Globalization \| Microsoft Learn](https://learn.microsoft.com/en-us/globalization/localization/ministyleguides/mini-style-guide-japanese)
+
+### old
+
+メールで Feedback する方法。メールひな形へのリンクは[こちら](http://aka.ms/DocSiteLocFeedback)。
+
+Build 2022 にて、コントリビューション推進のお願い動画。23:00 手前ごろから。
+
+* [GitHub + Microsoft Docs + お客様](https://mybuild.microsoft.com/ja-JP/sessions/556d5cc8-beb5-4811-8e91-2f6cd46af79a)
 
 ## Microsoft Learn
 
