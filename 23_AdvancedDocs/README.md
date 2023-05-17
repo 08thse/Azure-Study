@@ -1,4 +1,4 @@
-# Advanced Documents
+# 発展・実践系ドキュメント
 
 ## Financial-grade Cloud Fundamentals (FGCF)
 
