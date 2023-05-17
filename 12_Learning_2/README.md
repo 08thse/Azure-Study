@@ -24,20 +24,6 @@
 
 更新情報は RSS で受け取ることが可能。英語版について、数日後には日本語の翻訳コンテンツが公開されることが多い印象。日本語版の更新情報は[こちら](https://docs.microsoft.com/ja-jp/azure/architecture/changelog)。
 
-### Azure アプリケーション アーキテクチャ ガイド
-
-[Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
-
-アーキテクチャ設計を俯瞰して捉えるのに良いです。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良いでしょう。
-
-[一部の OSS を利用する時の考慮事項](https://docs.microsoft.com/ja-jp/azure/architecture/guide/open-source-scenarios) や [一部サードパーティソフトウェアを利用する際の考慮事項](https://docs.microsoft.com/ja-jp/azure/architecture/guide/partner-scenarios) などもあります。
-
-### .NET アプリのアーキテクチャ ガイド
-
-[.NET アプリケーション アーキテクチャのドキュメント](https://docs.microsoft.com/ja-jp/dotnet/architecture/)
-
-「電子書籍」に様々なアーキテクチャガイドがあります。
-
 ### Azure Well-Architected Framework
 
 [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
@@ -64,8 +50,6 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 読み進め方は、[こちら](https://dev.classmethod.jp/articles/aws-well-architected-guide2022/)が大変参考になります。
 
-## Azure 標準化ガイドライン
+## その他の発展・実践系ドキュメント
 
-<https://github.com/Azure/Azure-standardization-guideline>
-
-Azure 上にシステムを構築するにあたり検討しておいた方が良いことが詰まっています。「テーラリングが前提」ではあるものの、一旦すべて目を通しておいて損はないと思います。また、「最新情報は適宜確認すること」は重要ですね。
+[こちら](../23_AdvancedDocs/README.md)のページもご覧いただければと思います。

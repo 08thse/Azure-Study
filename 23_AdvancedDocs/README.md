@@ -4,6 +4,12 @@
 
 [FgCFコンテンツ一覧 \| Microsoft Base](https://www.microsoft.com/ja-jp/events/azurebase/fgcf/)
 
+## Azure 標準化ガイドライン
+
+<https://github.com/Azure/Azure-standardization-guideline>
+
+Azure 上にシステムを構築するにあたり検討しておいた方が良いことが詰まっています。「テーラリングが前提」ではあるものの、一旦すべて目を通しておいて損はないと思います。また、「最新情報は適宜確認すること」は重要ですね。
+
 ## Cloud Adoption Framework (CAF)
 
 * [Azure 向けの Microsoft Cloud 導入フレームワーク \- Cloud Adoption Framework \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/cloud-adoption-framework/)
@@ -26,6 +32,11 @@
 [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
 [Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
 
+VM や Storage Account などにおける可用性やコストの面での推奨事項がまとめられ始めており、設計時には是非見ておきたいポイントです。
+
+* [Virtual Machines and reliability](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/reliability)
+* [Virtual Machines and cost optimization](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/cost-optimization)
+
 ### Well-Architected Framework 解説セッション
 
 [Well\-Architected Framework 全体像と、5つのピラー解説](https://note.microsoft.com/CatalogueDisplay-SRDEM82102_CatalogDisplayPage.html)
@@ -41,6 +52,8 @@
 [Azure アプリケーション アーキテクチャ ガイド](https://docs.microsoft.com/ja-jp/azure/architecture/guide/)
 
 アーキテクチャ設計を俯瞰して捉えるのに良いです。Azure Well-Architected Framework 等を見ながら、適宜立ち返るのが良いでしょう。
+
+[一部の OSS を利用する時の考慮事項](https://docs.microsoft.com/ja-jp/azure/architecture/guide/open-source-scenarios) や [一部サードパーティソフトウェアを利用する際の考慮事項](https://docs.microsoft.com/ja-jp/azure/architecture/guide/partner-scenarios) などもあります。
 
 ## クラウドアプリケーションのベストプラクティス
 
