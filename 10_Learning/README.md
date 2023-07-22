@@ -44,7 +44,7 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 ## Azure の開発者ガイド (The Developer's Guide to Azure)
 
-[Azure の開発者ガイド \- アプリの開発 \| Microsoft Azure](https://azure.microsoft.com/ja-jp/campaigns/developer-guide/)
+[Azure の開発者ガイド \- アプリの開発 \| Microsoft Azure](https://azure.microsoft.com/ja-jp/resources/whitepapers/developer-guide-to-azure/)
 
 アプリ開発に関わる Azure の各種サービスの概要・使いどころやクラウドネイティブ構成などをざっと説明。日本語 (2022年2月更新) 版も提供されているが上記ページからは DL できないみたい。下記から入手可能。
 
@@ -58,13 +58,13 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 ## Microsoft Documents
 
-[Azure のドキュメント](https://docs.microsoft.com/ja-jp/azure/)
+[Azure のドキュメント](https://learn.microsoft.com/ja-jp/azure/)
 
 公式マニュアル。意外とチュートリアルやベストプラクティスが充実しているので、設計前には熟読しておきましょう。
 
 ### Azure Advisor
 
-[Azure Advisor のドキュメント - Azure Advisor](https://docs.microsoft.com/ja-jp/azure/advisor/)
+[Azure Advisor のドキュメント - Azure Advisor](https://learn.microsoft.com/ja-jp/azure/advisor/)
 
 「操作方法ガイド」配下のページはベストプラクティスとして確認しておくと良いと思います。
 
@@ -88,7 +88,7 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 ## FastTrack for Azure (技術セッション)
 
-[FastTrack for Azure](https://learn.microsoft.com/ja-jp/training/azure/fasttrack)
+[FastTrack for Azure](https://learn.microsoft.com/ja-jp/azure/fasttrack/)
 
 「FastTrack for Azure」自体は導入時のサポート・ガイダンスを得られるメニューですが、こちらで時々配信される技術セッションがあります。  
 [こちら](https://developer.microsoft.com/ja-jp/reactor/?search=fasttrack)から今後の予定されているセッションを、[こちら](https://learn.microsoft.com/ja-jp/fasttrack/)から一部の過去セッションの録画を見ることができます。
