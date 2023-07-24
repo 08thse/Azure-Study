@@ -86,6 +86,14 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 「日本マイクロソフトの社員が作成してネット上に公開している日本語の Azure 技術情報へのポインタを、有志の社員が取りまとめてリスト化・公開しているもの」とのこと。社員さんのブログや開発チームのブログが集約された情報がすごいです。
 
+## Azure Developer CLI (azd)
+
+[Azure Developer CLI \(azd\) \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/developer/azure-developer-cli/)
+
+オープンソースのコマンドラインツール。
+
+初学者的には、サンプル環境のデプロイをポチポチっとできるあたりが便利です。
+
 ## FastTrack for Azure (技術セッション)
 
 [FastTrack for Azure](https://learn.microsoft.com/ja-jp/azure/fasttrack/)
