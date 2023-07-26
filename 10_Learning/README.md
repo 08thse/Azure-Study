@@ -101,11 +101,11 @@ Web 上にて様々なコレクションが公開されていることがあり�
 「FastTrack for Azure」自体は導入時のサポート・ガイダンスを得られるメニューですが、こちらで時々配信される技術セッションがあります。  
 [こちら](https://developer.microsoft.com/ja-jp/reactor/?search=fasttrack)から今後の予定されているセッションを、[こちら](https://learn.microsoft.com/ja-jp/fasttrack/)から一部の過去セッションの録画を見ることができます。
 
-## Channel 9
+## Shows (旧 Channel 9)
 
-[Channel 9](https://channel9.msdn.com/)
+[ショー \| Microsoft Learn](https://learn.microsoft.com/ja-jp/shows/)
 
-英語中心ですが、時々面白い動画コンテンツが公開されています。
+以前「Channel 9」として発信されていた動画を中心とした学習コンテンツ。[Shows として Microsoft Learn のコンテンツの一部になった](https://learn.microsoft.com/ja-jp/teamblog/channel9joinedmicrosoftlearn)とのこと。
 
 ## ハンズオン系の情報
 
