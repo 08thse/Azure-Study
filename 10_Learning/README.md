@@ -123,6 +123,8 @@ Azure AD に関するオンデマンドセミナが沢山！
 
 具体的な実装というよりは、どんなソリューションをどんな目的でビジネスに活用しているのか、という観点で参考に。
 
+その他の事例集のドキュメントは[こちら](https://www.microsoft.com/ja-jp/biz/nowon-azure/default.aspx)からもダウンロードできる。
+
 ## その他
 
 ### Microsoft Azure の歴史 (IaaS)
