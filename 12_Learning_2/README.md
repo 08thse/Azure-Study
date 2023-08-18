@@ -16,18 +16,18 @@
 
 とにかく様々な領域のアーキテクチャに関するドキュメントがもりだくさん。全部読むのは辛いかもしれませんが、興味のあるページから読み進めると良いと思います。
 
-[Azure アーキテクチャ センター - Azure Architecture Center](https://docs.microsoft.com/ja-jp/azure/architecture/)
+[Azure アーキテクチャ センター - Azure Architecture Center](https://learn.microsoft.com/ja-jp/azure/architecture/)
 
 ### 更新情報
 
-[What's new in Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/changelog)
+[What's new in Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/changelog)
 
-更新情報は RSS で受け取ることが可能。英語版について、数日後には日本語の翻訳コンテンツが公開されることが多い印象。日本語版の更新情報は[こちら](https://docs.microsoft.com/ja-jp/azure/architecture/changelog)。
+更新情報は RSS で受け取ることが可能。英語版について、数日後には日本語の翻訳コンテンツが公開されることが多い印象。日本語版の更新情報は[こちら](https://learn.microsoft.com/ja-jp/azure/architecture/changelog)。
 
 ### Azure Well-Architected Framework
 
-[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
-[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
+[Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/ja-jp/azure/well-architected/)  
+[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://learn.microsoft.com/ja-jp/training/paths/azure-well-architected-framework/)
 
 VM や Storage Account などにおける可用性やコストの面での推奨事項がまとめられ始めており、設計時には是非見ておきたいポイントです。
 
