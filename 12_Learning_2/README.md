@@ -31,12 +31,11 @@
 
 VM や Storage Account などにおける可用性やコストの面での推奨事項がまとめられ始めており、設計時には是非見ておきたいポイントです。
 
-* [Virtual Machines and reliability](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/reliability)
-* [Virtual Machines and cost optimization](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/cost-optimization)
+* [Virtual Machines and reliability](https://learn.microsoft.com/ja-jp/azure/well-architected/services/compute/virtual-machines/virtual-machines-review)
 
 ### Azure Well-Architected レビュー
 
-[Azure Well-Architected レビュー](https://docs.microsoft.com/ja-jp/assessments/)
+[Azure Well-Architected レビュー](https://learn.microsoft.com/ja-jp/assessments/azure-architecture-review/)
 
 サブスクリプション (Azure アカウント) とリンクさせ、自動で Well-Architected Framework の適合状況をチェックしてくれるツール。
 
