@@ -135,7 +135,8 @@ Azure AD に関するオンデマンドセミナが沢山！
 
 ### AWS を知っている人が勉強を開始する際に
 
-[AWS プロフェッショナルのための Azure \- Azure Architecture Center \| Microsoft Docs](https://learn.microsoft.com/ja-jp/azure/architecture/aws-professional/)
+* [AWS プロフェッショナルのための Azure \- Azure Architecture Center \| Microsoft Docs](https://learn.microsoft.com/ja-jp/azure/architecture/aws-professional/)
+* [AWS履修者のためのAzure入門 \- Speaker Deck](https://speakerdeck.com/beex/awslu-xiu-zhe-notamenoazureru-men)
 
 ### 作図に便利なアプリ等
 
