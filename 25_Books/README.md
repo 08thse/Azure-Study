@@ -29,10 +29,9 @@ Azure Kubernetes Service を使って Kubernetes を一通り学べる本。洋�
 
 ## 開発中心
 
-* [Azure Functions 入門](https://project.nikkeibp.co.jp/bnt/atcl/19/P53950/)
+* [Azure Functions 入門](https://bookplus.nikkei.com/atcl/catalog/19/P53950/)
 
 定番の HTTP Trigger だけでなく、Azure Storage のトリガー等いくつかの定番について、サンプルや実装手順とともに解説されているので分かりやすい。ただ、Durable Functions には言及されていないので、そのあたりの活用まで視野に入れたい人は独学必須です。
-
 
 ## クラウド全般
 
