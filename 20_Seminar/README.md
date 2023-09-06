@@ -1,19 +1,19 @@
 # 良かったセミナ等
 
-Azure周辺の勉強として良かったオンデマンドセミナなどを残していっています。
+Azure 周辺の勉強として良かったオンデマンドセミナなどを残していっています。
+
+結構、オンラインセミナは非公開になってしまうものがあるので悩みながらも更新中…
+
+## Conference
+
+### [Microsoft Build Japan 2023](https://info.microsoft.com/JA-ADAI-CATALOG-FY23-06Jun-28-Microsoft-Build-Japan-Day2-SREVM14500_Catalog-Display-Page.html)
+
+[Microsoft Build Japan \- YouTube](https://www.youtube.com/playlist?list=PL1RqQ3kddIpYJ0u1GxTlI0r4qMeGdEL6_)
 
 ## Web
 
 * [Python ウェブ アプリケーションをクラウド運用してみよう。](https://info.microsoft.com/JA-AzureApp-WBNR-FY20-06Jun-16-AzureAppInnovationMeetAzureforDevelopers-SRDEM21657_LP02OnDemandRegistration-ForminBody.html)  
 コンテナや CI/CD なども含まれているので、そのあたりを一通り触るのに便利。ただし Azure DevOps は尻切れ感
-* [Node.js アプリケーションをクラウド運用してみよう](https://info.microsoft.com/JA-AzureApp-WBNR-FY20-05May-21-AzureAppInnovationMeetAzureforDevelopers-SRDEM21650_LP02OnDemandRegistration-ForminBody.html)  
-Azure DevOps Starter が強力だということがわかる動画
-* [ASP.NET Core 3.x Web アプリのログを Elastic Cloud で収集・分析してみよう！](https://info.microsoft.com/JA-AzureApp-WBNR-FY21-10Oct-19-AzureAppInnovation-SRDEM47219_LP02OnDemandRegistration-ForminBody.html)  
-Serilog を利用。内容が濃くペースが早め。開発者向け
-
-## Cosmos DB
-
-* [Cosmos DB と使いどころ](https://info.microsoft.com/JA-DevComm-WBNR-FY21-07Jul-31-CosmosDB-SRDEM32805_LP02OnDemandRegistration-ForminBody.html)
 
 ## .NET
 
