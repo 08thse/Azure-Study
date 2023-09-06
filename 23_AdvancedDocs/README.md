@@ -12,12 +12,12 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 
 ## Cloud Adoption Framework (CAF)
 
-* [Azure 向けの Microsoft Cloud 導入フレームワーク \- Cloud Adoption Framework \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/cloud-adoption-framework/)
+* [Azure 向けの Microsoft Cloud 導入フレームワーク \- Cloud Adoption Framework \| Microsoft Docs](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/)
   * [ガバナンス ガイド](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/govern/)
 
 ### Azure Landing Zone
 
-[Azure ランディング ゾーンとは \- Cloud Adoption Framework \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/landing-zone/)
+[Azure ランディング ゾーンとは \- Cloud Adoption Framework \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/landing-zone/)
 
 ## Azure Review Checklists
 
@@ -29,13 +29,12 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 
 ## Azure Well-Architected Framework
 
-[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/ja-jp/azure/architecture/framework/)  
-[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)
+[Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/ja-jp/azure/well-architected/)  
+[[Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/paths/azure-well-architected-framework/)](https://learn.microsoft.com/ja-jp/training/paths/azure-well-architected-framework/)
 
 VM や Storage Account などにおける可用性やコストの面での推奨事項がまとめられ始めており、設計時には是非見ておきたいポイントです。
 
-* [Virtual Machines and reliability](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/reliability)
-* [Virtual Machines and cost optimization](https://docs.microsoft.com/azure/architecture/framework/services/compute/virtual-machines/cost-optimization)
+* [Azure Well\-Architected Framework のレビュー \- Virtual Machines \- Microsoft Azure Well\-Architected Framework \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/well-architected/services/compute/virtual-machines/virtual-machines-review)
 
 ### Well-Architected Framework 解説セッション
 
