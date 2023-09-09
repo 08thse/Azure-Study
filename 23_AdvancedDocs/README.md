@@ -15,6 +15,10 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 * [Azure 向けの Microsoft Cloud 導入フレームワーク \- Cloud Adoption Framework \| Microsoft Docs](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/)
   * [ガバナンス ガイド](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/govern/)
 
+下記の Cloud Adoption Framework CAF Boot Camp もオススメです。
+
+* [Cloud Adoption Framework \(CAF\) Boot Camp \- YouTube](https://www.youtube.com/playlist?list=PL1RqQ3kddIpZe9hQozXALLITeTJtMiXHv)
+
 ### Azure Landing Zone
 
 [Azure ランディング ゾーンとは \- Cloud Adoption Framework \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/landing-zone/)
