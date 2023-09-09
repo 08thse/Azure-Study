@@ -4,12 +4,6 @@ Azure 周辺の勉強として良かったオンデマンドセミナなどを�
 
 結構、オンラインセミナは非公開になってしまうものがあるので悩みながらも更新中…
 
-## Conference
-
-### [Microsoft Build Japan 2023](https://info.microsoft.com/JA-ADAI-CATALOG-FY23-06Jun-28-Microsoft-Build-Japan-Day2-SREVM14500_Catalog-Display-Page.html)
-
-[Microsoft Build Japan \- YouTube](https://www.youtube.com/playlist?list=PL1RqQ3kddIpYJ0u1GxTlI0r4qMeGdEL6_)
-
 ## Web
 
 * [Python ウェブ アプリケーションをクラウド運用してみよう。](https://info.microsoft.com/JA-AzureApp-WBNR-FY20-06Jun-16-AzureAppInnovationMeetAzureforDevelopers-SRDEM21657_LP02OnDemandRegistration-ForminBody.html)  
@@ -22,3 +16,13 @@ Azure 周辺の勉強として良かったオンデマンドセミナなどを�
 ## Azure Functions
 
 * [サーバーレスの API を安全に公開しよう！](https://info.microsoft.com/JA-AzureApp-WBNR-FY20-04Apr-29-AzureAppInnovationMeetAzureforDevelopers-SRDEM19303_LP02OnDemandRegistration-ForminBody.html)
+
+## Conference
+
+### [Microsoft Build Japan 2023](https://info.microsoft.com/JA-ADAI-CATALOG-FY23-06Jun-28-Microsoft-Build-Japan-Day2-SREVM14500_Catalog-Display-Page.html)
+
+[Microsoft Build Japan \- YouTube](https://www.youtube.com/playlist?list=PL1RqQ3kddIpYJ0u1GxTlI0r4qMeGdEL6_)
+
+### [Microsoft Inspire 2023](https://news.microsoft.com/inspire-2023/)
+
+[Microsoft Inspire 2023 \- YouTube](https://www.youtube.com/playlist?list=PLFPUGjQjckXGvQU8Q4Gqcw8qKUCELx3SJ)
