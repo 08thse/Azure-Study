@@ -8,7 +8,7 @@
 
 まずは下記のドキュメント共同作成者ガイドに目を通しておくと良いです。
 
-* [Microsoft Learn ドキュメント共同作成者ガイドの概要 \- Contributor guide \| Microsoft Learn](https://learn.microsoft.com/ja-jp/contribute/)
+* [Microsoft Learn 共同作成者ガイドの概要 \- Contributor guide \| Microsoft Learn](https://learn.microsoft.com/ja-jp/contribute/content/)
 
 Build 2022 より 20:00 ごろから。「プルリクエストは遠慮なく送って！」とのこと。
 
