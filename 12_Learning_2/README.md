@@ -49,11 +49,11 @@ Microsoft的には、[定期的に実行してチェックすることをオス�
 
 読み進め方は、[こちら](https://dev.classmethod.jp/articles/aws-well-architected-guide2022/)が大変参考になります。
 
-## Azure AD for customers Dev Center
+## Microsoft Entra ID for customers Dev Center
 
-[Azure AD for customers Dev Center \| Simplify your customer identity](https://developer.microsoft.com/en-us/identity/customers)
+[Microsoft Entra ID for customers Dev Center \| Simplify your customer identity](https://developer.microsoft.com/en-us/identity/customers)
 
-Azure AD に関わる開発ドキュメントやサンプルなどを公開。そのうち名前変わるんだろうな…
+Microsoft Entra ID (Azure AD) に関わる開発ドキュメントやサンプルなどを公開。
 
 ## その他の発展・実践系ドキュメント
 
