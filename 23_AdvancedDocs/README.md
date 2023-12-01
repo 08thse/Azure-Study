@@ -50,6 +50,12 @@ VM や Storage Account などにおける可用性やコストの面での推奨
 
 その名の通り、Azure上でミッションクリティカルなシステムを実装する際の考慮事項等がまとめられている。英語なのが少し辛いですが…
 
+## Azure Business Continuity Guide (ABC Guide)
+
+[Azure/BusinessContinuityGuide: A BCDR guide for Microsoft Azure customers](https://github.com/Azure/BusinessContinuityGuide)
+
+ビジネス継続性を持つために実施するアクティビティや、それに役立つツールが公開されている。英語です…
+
 ## Azure アプリケーション アーキテクチャ ガイド
 
 [Azure アプリケーション アーキテクチャ ガイド](https://learn.microsoft.com/ja-jp/azure/architecture/guide/)
