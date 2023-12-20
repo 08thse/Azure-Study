@@ -109,6 +109,10 @@ AKS 上でマイクロサービスを動作させ、サーキットブレーカ�
 Azure Container Apps の公式サンプルチュートリアルがまとまっているページ
   * `Container Apps`
 
+* [Quarkus\-run\-on\-Azure\-Container\-Apps\-with\-Dapr](https://github.com/yoshioterada/Quarkus-run-on-Azure-Container-Apps-with-Dapr)  
+Azure Container Apps で Dapr な Quarkus アプリを作るハンズオン
+  * `Container Apps`, `Dapr`, `Java`
+
 * [Red Dog Demo: Azure Container Apps Deployment](https://github.com/Azure/reddog-containerapps)  
 Azure Container Apps の大きめなサンプル。Cosmos DB や Pubsub での Dapr 連携なども構築される
   * `Container Apps`, `Cosmos DB`, `Cache for Redis`
