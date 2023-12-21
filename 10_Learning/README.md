@@ -28,6 +28,10 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 一番入門向けなAzure資格。まずはここから取得してみましょう。
 
+### 『Azure の始め方』 6 回シリーズ
+
+[6時間でAzure の基本をマスター 「Azure の始め方 6 回シリーズ」 動画公開\! \| Microsoft Base](https://www.microsoft.com/ja-jp/events/azurebase/blog/master-azure-basics-in-6-hours-how-to-get-started-with-azure-6-series-video-release/)
+
 ## @msdevjp (Twitter)
 
 [Microsoft Tech Twitter (@msdevjp)](https://twitter.com/msdevjp)
