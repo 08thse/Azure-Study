@@ -1,0 +1,10 @@
+{
+  "filters": {
+    "comments": true,
+    "allowlist": {
+      "allow": [
+        "Azure AD"
+      ]
+    }
+  }
+}
