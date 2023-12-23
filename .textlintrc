@@ -1,12 +1,4 @@
 {
-  "filters": {
-    "comments": true,
-    "allowlist": {
-      "allow": [
-        "/Azure AD/i"
-      ]
-    }
-  },
   "rules": {
     "azure-product-name": true
   }

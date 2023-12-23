@@ -23,4 +23,4 @@ jobs:
       - name: Install dependent module
         run: npm install
       - name: Execute textlint
-        run: npx textlint "**/*.md"
+        run: textlint "**/*.md"
