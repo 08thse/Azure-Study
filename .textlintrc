@@ -1,8 +1,12 @@
 {
   "rules": {
-    "azure-product-name": {
+    "azure-product-name": true
+  },
+  "filters": {
+    "comments": true,
+    "allowlist": {
       "allow": [
-        "/Azure AD/"
+        "/Azure AD"
       ]
     }
   }
