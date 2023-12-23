@@ -12,9 +12,15 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
       - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-          cache: npm
-      - run: npm i -g textlint textlint-rule-azure-product-name
-      - name: textlint
-        run: textlint --rule azure-product-name */*.md
+      - name: Install textlint
+        run: >
+          npm install --save-dev
+          textlint
+          textlint-rule-preset-smarthr
+          textlint-rule-prh
+          textlint-filter-rule-allowlist
+          textlint-rule-azure-product-name
+      - name: Install dependent module
+        run: npm install
+      - name: Execute textlint
+        run: npx textlint --rule azure-product-name "**/*.md"
