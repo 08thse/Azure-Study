@@ -19,6 +19,7 @@ jobs:
           textlint-rule-preset-smarthr
           textlint-rule-prh
           textlint-filter-rule-allowlist
+          textlint-filter-rule-comments
           textlint-rule-azure-product-name
       - name: Install dependent module
         run: npm install
