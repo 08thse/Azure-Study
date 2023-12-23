@@ -115,15 +115,11 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 ハンズオン系の情報は[こちら](../21_Hands-on/README.md)でも。
 
-<!-- textlint-disable azure-product-name -->
-
 ## Azure AD webinar
 
 <https://github.com/yusukekodama/PMActivities/blob/master/Webinar/Schedule.md>
 
 Azure AD に関するオンデマンドセミナが沢山！
-
-<!-- textlint-enable azure-product-name -->
 
 ## Microsoft Azure 総合事例集
 
