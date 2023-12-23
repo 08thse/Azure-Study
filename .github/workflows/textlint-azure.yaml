@@ -1,0 +1,20 @@
+name: textlint-azure
+
+on: push
+
+jobs:
+  main:
+    runs-on: ubuntu-22.04  # runner OS version
+    permissions:
+      contents: read
+    timeout-minutes: 2
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
+      - run: npm install textlint textlint-rule-azure-product-name
+      - name: textlint
+        run: textlint --rule azure-product-name */*.md
