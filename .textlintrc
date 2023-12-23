@@ -1,5 +1,9 @@
 {
   "rules": {
-    "azure-product-name": true
+    "azure-product-name": {
+      "allow": [
+        "/Azure AD/"
+      ]
+    }
   }
 }
