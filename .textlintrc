@@ -3,8 +3,11 @@
     "comments": true,
     "allowlist": {
       "allow": [
-        "Azure AD"
+        "/Azure AD/i"
       ]
     }
+  },
+  "rules": {
+    "azure-product-name": true
   }
 }
