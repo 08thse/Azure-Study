@@ -3,6 +3,11 @@
     "azure-product-name": true
   },
   "filters": {
-    "comments": true
+    "comments": true,
+    "allowlist": {
+      "allow": [
+        "/Azure AD"
+      ]
+    }
   }
 }
