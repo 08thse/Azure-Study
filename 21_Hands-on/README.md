@@ -144,8 +144,8 @@ Functions を API Management と Swagger とで連携してデプロイまで行
 
 * [Azure でリアルタイムのイベント ドリブン Java ソリューションを構築する](https://docs.microsoft.com/ja-jp/learn/modules/deploy-real-time-event-driven-app/)  
 [チュートリアル:Azure Cosmos DB と Event Hubs で Java 関数を使用する \| Microsoft Docs](https://docs.microsoft.com/ja-jp/azure/azure-functions/functions-event-hub-cosmos-db)  
-Azure Functions と Event Hub を使用して、イベントベースの利用統計情報を Azure Cosmos DB に送信する
-  * `Azure Functions`, `Cosmos DB`, `Event Hub`
+Azure Functions と Event Hubs を使用して、イベントベースの利用統計情報を Azure Cosmos DB に送信する
+  * `Azure Functions`, `Cosmos DB`, `Event Hubs`
 
 * [Terraform を使用して Azure Kubernetes Service (AKS) で Kubernetes クラスターを作成する](https://docs.microsoft.com/ja-jp/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks)  
   * `Terraform`, `AKS`
@@ -244,5 +244,5 @@ AWS の DMS 向けのサンプルデータベース。SQL文で流すので、�
 ARM Template の テンプレート集
   * `ARM Template`
 * [Azure-Sentinel/Playbooks at master · Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)  
-Azure Sentinel の Playbook のテンプレート集
+Microsoft Sentinel の Playbook のテンプレート集
   * `Azure Sentinel`

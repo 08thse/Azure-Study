@@ -36,7 +36,7 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 * [Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/ja-jp/azure/well-architected/)
 * [Microsoft Azure Well-Architected Framework を使用して優れたソリューションを構築する](https://learn.microsoft.com/ja-jp/training/paths/azure-well-architected-framework/)
 
-VM や Storage Account などにおける可用性やコストの面での推奨事項がまとめられ始めており、設計時には是非見ておきたいポイントです。
+VM や Storage account などにおける可用性やコストの面での推奨事項がまとめられ始めており、設計時には是非見ておきたいポイントです。
 
 * [Azure Well\-Architected Framework のレビュー \- Virtual Machines \- Microsoft Azure Well\-Architected Framework \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/well-architected/services/compute/virtual-machines/virtual-machines-review)
 
