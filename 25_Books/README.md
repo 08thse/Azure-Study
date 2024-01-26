@@ -29,6 +29,10 @@ Azure Kubernetes Service を使って Kubernetes を一通り学べる本。洋�
 
 ## 開発中心
 
+* [クラウドアプリ構築の流れと手法がよくわかる！ Microsoft Azure アプリ開発入門ガイド](https://book.mynavi.jp/manatee/books/detail/id=140172)
+
+サンプルを使って Azure の基本的なサービスを活用しつつアプリ開発をハンズオンしていく流れ。サンプルがとてもしっかりしている本です。
+
 * [Azure Functions 入門](https://bookplus.nikkei.com/atcl/catalog/19/P53950/)
 
 定番の HTTP Trigger だけでなく、Azure Storage のトリガー等いくつかの定番について、サンプルや実装手順とともに解説されているので分かりやすい。ただ、Durable Functions には言及されていないので、そのあたりの活用まで視野に入れたい人は独学必須です。
