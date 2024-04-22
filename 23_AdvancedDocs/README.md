@@ -23,6 +23,12 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 
 [Azure ランディング ゾーンとは \- Cloud Adoption Framework \| Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/landing-zone/)
 
+### AzureCAF.LandingZones.Demo
+
+日本マイクロソフトの赤間さんが、デモ動画やサンプルなどを整備し公開しているリポジトリ。重厚！
+
+[AzureCAF\.LandingZones\.Demo](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo)
+
 ## Azure Review Checklists
 
 [Azure/review\-checklists](https://github.com/Azure/review-checklists)
