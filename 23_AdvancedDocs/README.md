@@ -25,7 +25,7 @@ Azure 上にシステムを構築するにあたり検討しておいた方が�
 
 ### AzureCAF.LandingZones.Demo
 
-日本マイクロソフトの赤間さんが、デモ動画やサンプルなどを整備し公開しているリポジトリ。重厚！
+「次の一歩」でも紹介した、日本マイクロソフトの赤間さんがデモ動画やサンプルなどを整備し公開しているリポジトリ。重厚！
 
 [AzureCAF\.LandingZones\.Demo](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo)
 

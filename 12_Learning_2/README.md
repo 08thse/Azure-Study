@@ -33,6 +33,12 @@ VM や Storage account などにおける可用性やコストの面での推奨
 
 * [Virtual Machines and reliability](https://learn.microsoft.com/ja-jp/azure/well-architected/services/compute/virtual-machines/virtual-machines-review)
 
+### AzureCAF.LandingZones.Demo
+
+日本マイクロソフトの赤間さんがデモ動画やサンプルなどを整備し公開しているリポジトリ。中段にある動画集は、Azure でのエンタープライズなアーキテクチャを知っていくにはとても良い勉強素材だと思います。
+
+[AzureCAF\.LandingZones\.Demo](https://github.com/nakamacchi/AzureCAF.LandingZones.Demo)
+
 ### Azure Well-Architected レビュー
 
 [Azure Well-Architected レビュー](https://learn.microsoft.com/ja-jp/assessments/azure-architecture-review/)
