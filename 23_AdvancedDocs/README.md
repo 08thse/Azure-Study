@@ -50,6 +50,12 @@ VM や Storage account などにおける可用性やコストの面での推奨
 
 [Well\-Architected Framework 全体像と、5つのピラー解説](https://note.microsoft.com/CatalogueDisplay-SRDEM82102_CatalogDisplayPage.html)
 
+## Azure Monitor Baseline Alerts
+
+[Welcome \| Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/)
+
+Azure Monitor による監視のベースラインアーキテクチャ。監視を検討しておいた方が良い項目の集大成という感じ。
+
 ## Azure Mission-Critical & Azure AlwaysOn
 
 [Azure/Mission\-Critical](https://github.com/Azure/Mission-Critical)
