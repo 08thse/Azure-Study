@@ -84,6 +84,12 @@ Web 上にて様々なコレクションが公開されていることがあり�
 
 日本の公式サポートブログの一覧が確認できて便利。各ブログでは様々な TIPS が発信されているので RSS 購読しておくと良いと思います。
 
+### 有償 Azure テクニカル サポートの対応範囲
+
+[Azure における有償 Azure テクニカル サポートの対応範囲 \| Japan Azure IaaS Core Support Blog](https://jpaztech.github.io/blog/other/azure_technical_support_explained/)
+
+サポートチームから公開された対応範囲に関する記事。対応できない範囲を知っておくのは重要ですね。
+
 ## Azure 技術資料インデックス
 
 <https://github.com/Azure/jp-techdocs>
